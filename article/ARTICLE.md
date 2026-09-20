@@ -1,4 +1,4 @@
-# I Tested a 32× Cheaper Model. Then I Added the Fallback.
+# Jev vs. GPT-5
 
 ## Conclusion
 

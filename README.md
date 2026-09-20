@@ -1,10 +1,10 @@
-# Jev + GPT-5: the cost of fallback
+# Jev vs. GPT-5
 
 **The frozen cascade missed its evaluation accuracy target:** 430/500 correct, versus GPT-5's 432/500. Its observed API cost was 47.34% lower. This is not demonstrated equal-quality savings. An earlier naming experiment failed its controls; its intended attribution claim is not supported.
 
 ## Read the article
 
-[**I Tested a 32× Cheaper Model. Then I Added the Fallback.**](article/ARTICLE.md)
+[**Jev vs. GPT-5**](article/ARTICLE.md)
 
 This public release includes the fixed 1,000-item Banking77 sample, sanitized response records, exact request examples, code, figures, protocols, and computed results for the GPT-5 follow-up. It is a descriptive comparison on reused cases, not a production benchmark.
 
