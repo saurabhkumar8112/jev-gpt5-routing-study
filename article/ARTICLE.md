@@ -1,18 +1,20 @@
 # I Tested a 32× Cheaper Model. Then I Added the Fallback.
 
-*Jev, GPT-5, 1,000 banking questions, and the difference between a cheap call and a cheap system.*
+## Conclusion
 
-**My cascade missed its accuracy target by two answers out of 500.** An earlier naming experiment also failed its controls, so I am not making its intended claim about why changing identifiers affected predictions.
+**I did not establish equal-quality savings.** My Jev → GPT-5 cascade missed the predefined accuracy target by **two answers out of 500**: **86.0% accuracy**, versus **86.4% for GPT-5 alone**. It reduced measured API cost by **47.3%**, from **$2,247 to $1,183 per million equivalent requests**.
 
-The cost difference was real: Jev cost about **1/32 as much as GPT-5** per classification in this experiment. But Jev answered fewer questions correctly.
+Jev alone was about **32× cheaper**, but scored **83.2%**. Adding GPT-5 fallback recovered most of that accuracy gap and left a **1.90× cost ratio**, not 32× savings at GPT-5 quality. The two-answer difference is small, but this experiment does not establish equivalence.
 
-I then tested the practical version of the idea: let Jev handle the questions it scored confidently, and send the rest to GPT-5.
+For me, this supports testing confidence-based routing on a real workload with an explicit acceptable error rate. It does **not** establish 50× equal-quality savings or production accuracy. These results come from offline routing over actual API responses on one reused public benchmark. My earlier naming experiment also failed its controls, so I am not making its intended attribution claim.
 
-That system cost **47.3% less** than using GPT-5 for everything. It scored **86.0%**, versus GPT-5's **86.4%**. Those are 430 and 432 correct answers. Close on this sample; not established as equivalent.
+## What I tested
 
-The detail that changed the cost calculation was the fallback workload. The questions I sent to GPT-5 were **41% more expensive than its average question**.
+I wanted to measure the difference between a cheap classification call and a cheap system. I let Jev handle questions it scored confidently and used GPT-5 for the rest.
 
-Here is what I measured, the requests I sent, and the code needed to check the arithmetic.
+The detail that changed the cost calculation was the fallback workload: the questions I sent to GPT-5 were **41% more expensive than its average question**.
+
+Here are the requests, measurements, and code behind those numbers.
 
 ![Measured accuracy and API cost on the 500 evaluation questions](figures/accuracy_and_cost.png)
 
