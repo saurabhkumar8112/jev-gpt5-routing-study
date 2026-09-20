@@ -1,0 +1,17 @@
+{
+  "original_run": "cascade-20260920T135930-b9ae3c81",
+  "original_journal_sha256": "51ada934553e8f8ef8fe0816e0770547b35e15196f58bcae7157eef8026e8470",
+  "public_journal_sha256": "7dae656955b89e653f9627c7a689046fc616035e66f52ab382405c8245eedf01",
+  "omitted": [
+    "provider response IDs",
+    "provider fingerprints",
+    "provider-created timestamps",
+    "service-tier metadata",
+    "full duplicate request journal",
+    "local environment files",
+    "private Git history",
+    "local filesystem metadata",
+    "handoff archives"
+  ],
+  "note": "Public response records are explicit field projections, not byte-identical raw responses. Choices, confidence, probabilities, token usage, logical IDs and client timing are preserved. Private originals are unchanged."
+}

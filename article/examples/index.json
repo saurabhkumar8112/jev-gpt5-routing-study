@@ -1,0 +1,32 @@
+{
+  "fallback_corrects": {
+    "item_id": "505",
+    "source_index": 280,
+    "split": "evaluate",
+    "text": "I need my card now!",
+    "gold": "card_delivery_estimate",
+    "jev_prediction": "card_arrival",
+    "confidence": 0.4,
+    "gpt_prediction": "card_delivery_estimate"
+  },
+  "retained_error": {
+    "item_id": "520",
+    "source_index": 2745,
+    "split": "evaluate",
+    "text": "I need to cancel my card that got stolen a little while ago. Someone has already taken some money out and I don't want them to take anymore. Can you please do that?",
+    "gold": "cash_withdrawal_not_recognised",
+    "jev_prediction": "lost_or_stolen_card",
+    "confidence": 0.96,
+    "gpt_prediction": "lost_or_stolen_card"
+  },
+  "both_wrong": {
+    "item_id": "529",
+    "source_index": 2505,
+    "split": "evaluate",
+    "text": "What are the fees to get a physical card?",
+    "gold": "order_physical_card",
+    "jev_prediction": "get_physical_card",
+    "confidence": 0.87,
+    "gpt_prediction": "get_physical_card"
+  }
+}

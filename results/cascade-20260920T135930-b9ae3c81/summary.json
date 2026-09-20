@@ -1,0 +1,500 @@
+{
+  "provider": "openai",
+  "llm_model": "gpt-5-2025-08-07",
+  "seed": 20260920,
+  "complete": true,
+  "errors": 0,
+  "observations": 2000,
+  "complete_pairs": 1000,
+  "raw_error_rows": 50,
+  "parser_recovered_rows": 50,
+  "confirmatory": false,
+  "economics_complete": true,
+  "reliability_evaluate": {
+    "n": 500,
+    "ece": 0.06853999999999996,
+    "midpoint_ece": 0.04299999999999997,
+    "buckets": [
+      {
+        "bin": 0,
+        "count": 0,
+        "midpoint": 0.05,
+        "mean_confidence": null,
+        "accuracy": null,
+        "wilson95": [
+          null,
+          null
+        ]
+      },
+      {
+        "bin": 1,
+        "count": 0,
+        "midpoint": 0.15,
+        "mean_confidence": null,
+        "accuracy": null,
+        "wilson95": [
+          null,
+          null
+        ]
+      },
+      {
+        "bin": 2,
+        "count": 1,
+        "midpoint": 0.25,
+        "mean_confidence": 0.28,
+        "accuracy": 0,
+        "wilson95": [
+          0.0,
+          0.7934506856227626
+        ]
+      },
+      {
+        "bin": 3,
+        "count": 8,
+        "midpoint": 0.35,
+        "mean_confidence": 0.37125,
+        "accuracy": 0.125,
+        "wilson95": [
+          0.02241749145005667,
+          0.4708881822128535
+        ]
+      },
+      {
+        "bin": 4,
+        "count": 15,
+        "midpoint": 0.45,
+        "mean_confidence": 0.44466666666666665,
+        "accuracy": 0.5333333333333333,
+        "wilson95": [
+          0.30116980025498397,
+          0.7519046463426261
+        ]
+      },
+      {
+        "bin": 5,
+        "count": 19,
+        "midpoint": 0.55,
+        "mean_confidence": 0.5510526315789473,
+        "accuracy": 0.47368421052631576,
+        "wilson95": [
+          0.2732980516117956,
+          0.6829219075488682
+        ]
+      },
+      {
+        "bin": 6,
+        "count": 28,
+        "midpoint": 0.65,
+        "mean_confidence": 0.6442857142857144,
+        "accuracy": 0.5357142857142857,
+        "wilson95": [
+          0.358126892344679,
+          0.7046843001720462
+        ]
+      },
+      {
+        "bin": 7,
+        "count": 31,
+        "midpoint": 0.75,
+        "mean_confidence": 0.7567741935483872,
+        "accuracy": 0.7096774193548387,
+        "wilson95": [
+          0.5340767066925007,
+          0.8390419984369939
+        ]
+      },
+      {
+        "bin": 8,
+        "count": 48,
+        "midpoint": 0.85,
+        "mean_confidence": 0.855625,
+        "accuracy": 0.7708333333333334,
+        "wilson95": [
+          0.6346073590999655,
+          0.8669217373308877
+        ]
+      },
+      {
+        "bin": 9,
+        "count": 350,
+        "midpoint": 0.95,
+        "mean_confidence": 0.9847142857142857,
+        "accuracy": 0.9257142857142857,
+        "wilson95": [
+          0.8933810096853702,
+          0.9488040779332311
+        ]
+      }
+    ]
+  },
+  "reliability_tune": {
+    "n": 500,
+    "ece": 0.09711999999999998,
+    "midpoint_ece": 0.07359999999999998,
+    "buckets": [
+      {
+        "bin": 0,
+        "count": 0,
+        "midpoint": 0.05,
+        "mean_confidence": null,
+        "accuracy": null,
+        "wilson95": [
+          null,
+          null
+        ]
+      },
+      {
+        "bin": 1,
+        "count": 1,
+        "midpoint": 0.15,
+        "mean_confidence": 0.17,
+        "accuracy": 0,
+        "wilson95": [
+          0.0,
+          0.7934506856227626
+        ]
+      },
+      {
+        "bin": 2,
+        "count": 1,
+        "midpoint": 0.25,
+        "mean_confidence": 0.28,
+        "accuracy": 0,
+        "wilson95": [
+          0.0,
+          0.7934506856227626
+        ]
+      },
+      {
+        "bin": 3,
+        "count": 12,
+        "midpoint": 0.35,
+        "mean_confidence": 0.3541666666666667,
+        "accuracy": 0.4166666666666667,
+        "wilson95": [
+          0.19326031365875665,
+          0.6804886874504503
+        ]
+      },
+      {
+        "bin": 4,
+        "count": 14,
+        "midpoint": 0.45,
+        "mean_confidence": 0.45714285714285713,
+        "accuracy": 0.35714285714285715,
+        "wilson95": [
+          0.1634473175355414,
+          0.612355768960926
+        ]
+      },
+      {
+        "bin": 5,
+        "count": 25,
+        "midpoint": 0.55,
+        "mean_confidence": 0.5448000000000001,
+        "accuracy": 0.48,
+        "wilson95": [
+          0.30031285954112974,
+          0.6650148304964322
+        ]
+      },
+      {
+        "bin": 6,
+        "count": 34,
+        "midpoint": 0.65,
+        "mean_confidence": 0.6470588235294118,
+        "accuracy": 0.4117647058823529,
+        "wilson95": [
+          0.2636596836387115,
+          0.5777840612118749
+        ]
+      },
+      {
+        "bin": 7,
+        "count": 34,
+        "midpoint": 0.75,
+        "mean_confidence": 0.7388235294117647,
+        "accuracy": 0.5588235294117647,
+        "wilson95": [
+          0.3945389925620307,
+          0.7111651775375785
+        ]
+      },
+      {
+        "bin": 8,
+        "count": 41,
+        "midpoint": 0.85,
+        "mean_confidence": 0.854390243902439,
+        "accuracy": 0.7560975609756098,
+        "wilson95": [
+          0.6065666377742431,
+          0.8617499726190967
+        ]
+      },
+      {
+        "bin": 9,
+        "count": 338,
+        "midpoint": 0.95,
+        "mean_confidence": 0.9857692307692307,
+        "accuracy": 0.908284023668639,
+        "wilson95": [
+          0.872757507501365,
+          0.9346343195525034
+        ]
+      }
+    ]
+  },
+  "top_probability_reliability_evaluate": {
+    "n": 500,
+    "ece": 0.07057999999999998,
+    "midpoint_ece": 0.04399999999999993,
+    "buckets": [
+      {
+        "bin": 0,
+        "count": 0,
+        "midpoint": 0.05,
+        "mean_confidence": null,
+        "accuracy": null,
+        "wilson95": [
+          null,
+          null
+        ]
+      },
+      {
+        "bin": 1,
+        "count": 0,
+        "midpoint": 0.15,
+        "mean_confidence": null,
+        "accuracy": null,
+        "wilson95": [
+          null,
+          null
+        ]
+      },
+      {
+        "bin": 2,
+        "count": 1,
+        "midpoint": 0.25,
+        "mean_confidence": 0.29000000000000004,
+        "accuracy": 0,
+        "wilson95": [
+          0.0,
+          0.7934506856227626
+        ]
+      },
+      {
+        "bin": 3,
+        "count": 4,
+        "midpoint": 0.35,
+        "mean_confidence": 0.37,
+        "accuracy": 0,
+        "wilson95": [
+          0.0,
+          0.4898908364545973
+        ]
+      },
+      {
+        "bin": 4,
+        "count": 17,
+        "midpoint": 0.45,
+        "mean_confidence": 0.44411764705882356,
+        "accuracy": 0.47058823529411764,
+        "wilson95": [
+          0.26165106442409436,
+          0.6903676493999558
+        ]
+      },
+      {
+        "bin": 5,
+        "count": 17,
+        "midpoint": 0.55,
+        "mean_confidence": 0.5511764705882353,
+        "accuracy": 0.47058823529411764,
+        "wilson95": [
+          0.26165106442409436,
+          0.6903676493999558
+        ]
+      },
+      {
+        "bin": 6,
+        "count": 30,
+        "midpoint": 0.65,
+        "mean_confidence": 0.648,
+        "accuracy": 0.5,
+        "wilson95": [
+          0.33154125640533766,
+          0.6684587435946623
+        ]
+      },
+      {
+        "bin": 7,
+        "count": 32,
+        "midpoint": 0.75,
+        "mean_confidence": 0.7628125,
+        "accuracy": 0.71875,
+        "wilson95": [
+          0.5462549057408342,
+          0.8443541950225723
+        ]
+      },
+      {
+        "bin": 8,
+        "count": 39,
+        "midpoint": 0.85,
+        "mean_confidence": 0.8556410256410256,
+        "accuracy": 0.7692307692307693,
+        "wilson95": [
+          0.6166374277165825,
+          0.8735419587485715
+        ]
+      },
+      {
+        "bin": 9,
+        "count": 360,
+        "midpoint": 0.95,
+        "mean_confidence": 0.9846666666666667,
+        "accuracy": 0.9222222222222223,
+        "wilson95": [
+          0.8898863403839542,
+          0.9456424115767047
+        ]
+      }
+    ]
+  },
+  "jev_evaluate_latency_ms": {
+    "p50": 531.20799921453,
+    "p95": 633.3891143556683,
+    "p99": 702.6431356742977
+  },
+  "llm_evaluate_latency_ms": {
+    "p50": 1713.3411043323576,
+    "p95": 4785.486354958265,
+    "p99": 8916.099226931108
+  },
+  "followup": {
+    "source_run": "data/cascade-20260920T132403-7f53cfef",
+    "protocol_sha256": "ecb73b3e4b6a57d2160b0933d4b2372721412045e38b18bc8a8433d4ccb1cc3c",
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 4096,
+    "concurrency": 4
+  },
+  "selected_on_tune": {
+    "parity": 0.94,
+    "peak": 0.94
+  },
+  "tune": {
+    "parity": {
+      "tau": 0.94,
+      "n": 500,
+      "escalation_rate": 0.37,
+      "accuracy": 0.818,
+      "llm_accuracy": 0.818,
+      "jev_accuracy": 0.786,
+      "escalated_llm_accuracy": 0.6270270270270271,
+      "kept_llm_accuracy": 0.9301587301587302,
+      "cost_per_case": 0.001267546744,
+      "llm_cost_per_case": 0.0023231425,
+      "savings_multiple": 1.8327864522525252,
+      "savings_per_million": 1055.595756,
+      "break_even_annual": {
+        "10000": 9473323.422493942,
+        "30000": 28419970.26748183,
+        "100000": 94733234.22493942,
+        "250000": 236833085.56234857
+      },
+      "simulated_cascade_latency_ms": {
+        "p50": 572.9798749089241,
+        "p95": 5883.384124306026,
+        "p99": 8919.255306879058
+      },
+      "parity_met": true
+    },
+    "peak": {
+      "tau": 0.94,
+      "n": 500,
+      "escalation_rate": 0.37,
+      "accuracy": 0.818,
+      "llm_accuracy": 0.818,
+      "jev_accuracy": 0.786,
+      "escalated_llm_accuracy": 0.6270270270270271,
+      "kept_llm_accuracy": 0.9301587301587302,
+      "cost_per_case": 0.001267546744,
+      "llm_cost_per_case": 0.0023231425,
+      "savings_multiple": 1.8327864522525252,
+      "savings_per_million": 1055.595756,
+      "break_even_annual": {
+        "10000": 9473323.422493942,
+        "30000": 28419970.26748183,
+        "100000": 94733234.22493942,
+        "250000": 236833085.56234857
+      },
+      "simulated_cascade_latency_ms": {
+        "p50": 572.9798749089241,
+        "p95": 5883.384124306026,
+        "p99": 8919.255306879058
+      },
+      "parity_met": true
+    }
+  },
+  "evaluate": {
+    "parity": {
+      "tau": 0.94,
+      "n": 500,
+      "escalation_rate": 0.35,
+      "accuracy": 0.86,
+      "llm_accuracy": 0.864,
+      "jev_accuracy": 0.832,
+      "escalated_llm_accuracy": 0.7257142857142858,
+      "kept_llm_accuracy": 0.9384615384615385,
+      "cost_per_case": 0.0011830539040000002,
+      "llm_cost_per_case": 0.00224657,
+      "savings_multiple": 1.8989582743475732,
+      "savings_per_million": 1063.5160959999996,
+      "break_even_annual": {
+        "10000": 9402772.593297923,
+        "30000": 28208317.77989377,
+        "100000": 94027725.93297924,
+        "250000": 235069314.8324481
+      },
+      "simulated_cascade_latency_ms": {
+        "p50": 566.1659999750555,
+        "p95": 4828.824825305491,
+        "p99": 9487.128128875047
+      },
+      "parity_met": false
+    },
+    "peak": {
+      "tau": 0.94,
+      "n": 500,
+      "escalation_rate": 0.35,
+      "accuracy": 0.86,
+      "llm_accuracy": 0.864,
+      "jev_accuracy": 0.832,
+      "escalated_llm_accuracy": 0.7257142857142858,
+      "kept_llm_accuracy": 0.9384615384615385,
+      "cost_per_case": 0.0011830539040000002,
+      "llm_cost_per_case": 0.00224657,
+      "savings_multiple": 1.8989582743475732,
+      "savings_per_million": 1063.5160959999996,
+      "break_even_annual": {
+        "10000": 9402772.593297923,
+        "30000": 28208317.77989377,
+        "100000": 94027725.93297924,
+        "250000": 235069314.8324481
+      },
+      "simulated_cascade_latency_ms": {
+        "p50": 566.1659999750555,
+        "p95": 4828.824825305491,
+        "p99": 9487.128128875047
+      },
+      "parity_met": false
+    }
+  },
+  "selection_record": {
+    "timestamp_utc": "2026-09-20T14:07:25.676259+00:00",
+    "tune_items": 500,
+    "thresholds_match": true
+  },
+  "cascade_p99_exceeds_llm": true,
+  "confidently_wrong_kept": 22
+}

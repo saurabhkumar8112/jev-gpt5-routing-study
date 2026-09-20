@@ -1,0 +1,29 @@
+{
+  "selected_on_tune": 0.94,
+  "tune": {
+    "tau": 0.94,
+    "n": 500,
+    "correct": 409,
+    "accuracy": 0.818,
+    "gpt_correct": 409,
+    "escalated": 185,
+    "cost_per_million": 1267.546744,
+    "gpt_cost_per_million": 2323.1425,
+    "savings_multiple": 1.832786452252525,
+    "parity_met": true
+  },
+  "evaluate": {
+    "tau": 0.94,
+    "n": 500,
+    "correct": 430,
+    "accuracy": 0.86,
+    "gpt_correct": 432,
+    "escalated": 175,
+    "cost_per_million": 1183.053904,
+    "gpt_cost_per_million": 2246.57,
+    "savings_multiple": 1.8989582743475737,
+    "parity_met": false
+  },
+  "jev_evaluate_correct": 416,
+  "jev_cost_per_million": 70.88390400000002
+}

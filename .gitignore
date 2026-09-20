@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.bundle
+*.zip
+__pycache__/
+.venv/
+.DS_Store

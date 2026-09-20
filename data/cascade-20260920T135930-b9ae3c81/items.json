@@ -1,0 +1,7002 @@
+[
+  {
+    "item_id": "0",
+    "source_index": 2401,
+    "split": "tune",
+    "text": "How many cards can I have for one account?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "1",
+    "source_index": 2590,
+    "split": "tune",
+    "text": "My ecchange rate was wrong for a cash transaction.",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "2",
+    "source_index": 2907,
+    "split": "tune",
+    "text": "I was charged extra for a withdrawal",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "3",
+    "source_index": 1147,
+    "split": "tune",
+    "text": "how do i change name?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "4",
+    "source_index": 523,
+    "split": "tune",
+    "text": "I accidentally blocked my PIN. How do I reset it?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "5",
+    "source_index": 1854,
+    "split": "tune",
+    "text": "My transfer is still pending and I know the account numbers are correct.  Please help.",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "6",
+    "source_index": 1679,
+    "split": "tune",
+    "text": "My things were stolen yesterday and I can't use any apps or anything, so I am going to need some help.",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "7",
+    "source_index": 1419,
+    "split": "tune",
+    "text": "I see random purchases to my account, was it hacked?",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "8",
+    "source_index": 988,
+    "split": "tune",
+    "text": "Where should my card work?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "9",
+    "source_index": 1794,
+    "split": "tune",
+    "text": "Why doesn't a return show up im my account from a purchase I made?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "10",
+    "source_index": 1420,
+    "split": "tune",
+    "text": "It seems someone used my card! There are a few transactions from a small town in the middle of nowhere that I definitely have not made! Please prevent them from using it immediately!",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "11",
+    "source_index": 86,
+    "split": "tune",
+    "text": "How often do your exchange rates change",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "12",
+    "source_index": 518,
+    "split": "tune",
+    "text": "What is the youngest someone can be to open an account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "13",
+    "source_index": 2960,
+    "split": "tune",
+    "text": "Is the top up feature available on the Apple Watch?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "14",
+    "source_index": 1197,
+    "split": "tune",
+    "text": "Do I have to verify my identity?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "15",
+    "source_index": 2092,
+    "split": "tune",
+    "text": "My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "16",
+    "source_index": 1927,
+    "split": "tune",
+    "text": "I think the atm ate my card.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "17",
+    "source_index": 1611,
+    "split": "tune",
+    "text": "I am seeing pending from the card payment I made.",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "18",
+    "source_index": 509,
+    "split": "tune",
+    "text": "What are the age requirements for opening an account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "19",
+    "source_index": 281,
+    "split": "tune",
+    "text": "my card was not in the mail again can you advise?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "20",
+    "source_index": 768,
+    "split": "tune",
+    "text": "The amount of cash I received was different than what I requested.",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "21",
+    "source_index": 1028,
+    "split": "tune",
+    "text": "Was my top up reversed?",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "22",
+    "source_index": 1758,
+    "split": "tune",
+    "text": "I was attempting to purchase a golf club off eBay yesterday, but my credit card was declined. I tried multiple times, and again this morning. Can you check into my card please?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "23",
+    "source_index": 757,
+    "split": "tune",
+    "text": "Do you have any restrictions to my top-up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "24",
+    "source_index": 1549,
+    "split": "tune",
+    "text": "Is there a way to reset my passcode?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "25",
+    "source_index": 2020,
+    "split": "tune",
+    "text": "Where can I find the source of my available money?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "26",
+    "source_index": 1956,
+    "split": "tune",
+    "text": "The ATM won't give back my card",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "27",
+    "source_index": 2294,
+    "split": "tune",
+    "text": "Why did my transfer fail?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "28",
+    "source_index": 901,
+    "split": "tune",
+    "text": "Which forms of currency are accepted?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "29",
+    "source_index": 1322,
+    "split": "tune",
+    "text": "How can I top up by card?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "30",
+    "source_index": 2841,
+    "split": "tune",
+    "text": "I need to activate my card can you do that now?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "31",
+    "source_index": 2678,
+    "split": "tune",
+    "text": "why isnt top up working",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "32",
+    "source_index": 2142,
+    "split": "tune",
+    "text": "I need to change my PIN. Can I do that at a cash machine?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "33",
+    "source_index": 2047,
+    "split": "tune",
+    "text": "What is the fastest that I can make a transfer?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "34",
+    "source_index": 1457,
+    "split": "tune",
+    "text": "Which ATM's will accept my card?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "35",
+    "source_index": 1912,
+    "split": "tune",
+    "text": "This company sucks! Can you delete my account?",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "36",
+    "source_index": 935,
+    "split": "tune",
+    "text": "Is this where I order a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "37",
+    "source_index": 2242,
+    "split": "tune",
+    "text": "Can I receive my salary in a currency other than what it is deposited in?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "38",
+    "source_index": 1715,
+    "split": "tune",
+    "text": "What's the refund process?",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "39",
+    "source_index": 2539,
+    "split": "tune",
+    "text": "How can I fix a problem where my virtual card is rejected?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "40",
+    "source_index": 888,
+    "split": "tune",
+    "text": "Can I use my American Express to add money to my account?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "41",
+    "source_index": 140,
+    "split": "tune",
+    "text": "I don't think my card payment exchange rate is correct.",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "42",
+    "source_index": 606,
+    "split": "tune",
+    "text": "I would like to refill my account using SWIFT.",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "43",
+    "source_index": 1462,
+    "split": "tune",
+    "text": "Can someone please assist me with finding my nearest ATM?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "44",
+    "source_index": 1817,
+    "split": "tune",
+    "text": "Do you know why my card payment did not work?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "45",
+    "source_index": 2309,
+    "split": "tune",
+    "text": "Please help me as i am continuously facing the issue in transferring money to my friends, as all my transactions are getting failed.",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "46",
+    "source_index": 2770,
+    "split": "tune",
+    "text": "Is there any discount for someone that exchanges currencies frequently?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "47",
+    "source_index": 2177,
+    "split": "tune",
+    "text": "I have a cryptocurrency exchange that won't go through. Please help me process it.",
+    "gold": "beneficiary_not_allowed"
+  },
+  {
+    "item_id": "48",
+    "source_index": 2477,
+    "split": "tune",
+    "text": "How can I top-up my card?",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "49",
+    "source_index": 315,
+    "split": "tune",
+    "text": "What's the U.S. Delivery time?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "50",
+    "source_index": 2761,
+    "split": "tune",
+    "text": "whats your exchange rate",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "51",
+    "source_index": 1265,
+    "split": "tune",
+    "text": "Where is my PIN number located?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "52",
+    "source_index": 1097,
+    "split": "tune",
+    "text": "There is a card payment I do not recognise.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "53",
+    "source_index": 737,
+    "split": "tune",
+    "text": "How can I top-up my limit?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "54",
+    "source_index": 797,
+    "split": "tune",
+    "text": "I didn't get the right amount at the ATM.",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "55",
+    "source_index": 900,
+    "split": "tune",
+    "text": "When adding money, what are the currencies you take?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "56",
+    "source_index": 1205,
+    "split": "tune",
+    "text": "It is impossible to verify my identity",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "57",
+    "source_index": 775,
+    "split": "tune",
+    "text": "My cash withdrawal was partly declined",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "58",
+    "source_index": 2794,
+    "split": "tune",
+    "text": "What is the cost for an exchange fee?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "59",
+    "source_index": 1010,
+    "split": "tune",
+    "text": "I put money into my account for the minimum balance but the application didn't accept.",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "60",
+    "source_index": 348,
+    "split": "tune",
+    "text": "Can I set up an automatic top-up for travel.",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "61",
+    "source_index": 898,
+    "split": "tune",
+    "text": "How do I transfer funds from my American Express into my account?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "62",
+    "source_index": 2695,
+    "split": "tune",
+    "text": "After the transfer, the balance did not update.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "63",
+    "source_index": 2139,
+    "split": "tune",
+    "text": "I would like to change my pin.",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "64",
+    "source_index": 1100,
+    "split": "tune",
+    "text": "Please put a freeze on my card,  I am worried there has been some payments on it and I don't know what for.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "65",
+    "source_index": 146,
+    "split": "tune",
+    "text": "The exchange rate given to me wasn't correct, after i purchased an item",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "66",
+    "source_index": 2877,
+    "split": "tune",
+    "text": "I just got this card & I don't know how to activate it.",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "67",
+    "source_index": 2837,
+    "split": "tune",
+    "text": "Are there any extra fees for adding money into the international card?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "68",
+    "source_index": 303,
+    "split": "tune",
+    "text": "Whats the delivery time to the United States?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "69",
+    "source_index": 2046,
+    "split": "tune",
+    "text": "Do transfers from Europe take longer?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "70",
+    "source_index": 33,
+    "split": "tune",
+    "text": "I'm still waiting on my card to be delivered.",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "71",
+    "source_index": 1972,
+    "split": "tune",
+    "text": "It appears that I am being double charged for some items that I have purchased this past week.  Please review and correct.",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "72",
+    "source_index": 1109,
+    "split": "tune",
+    "text": "I don't know where this transaction came from?",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "73",
+    "source_index": 1782,
+    "split": "tune",
+    "text": "Did my refund go through? It's not on my statement.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "74",
+    "source_index": 1837,
+    "split": "tune",
+    "text": "I tried using my card and it kept getting declined, Why?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "75",
+    "source_index": 2754,
+    "split": "tune",
+    "text": "Someone has stolen my card. Even though I have my card with me, someone just made a 500£ cash withdrawal. Please help as soon as possible.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "76",
+    "source_index": 347,
+    "split": "tune",
+    "text": "Can I have it add money automatically in certain intervals?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "77",
+    "source_index": 2338,
+    "split": "tune",
+    "text": "How do I top up my card?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "78",
+    "source_index": 2805,
+    "split": "tune",
+    "text": "Are there charges for topping up US cards?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "79",
+    "source_index": 1815,
+    "split": "tune",
+    "text": "I'm really stuck. I don't know why but my card payment has not gone through.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "80",
+    "source_index": 2270,
+    "split": "tune",
+    "text": "What if I need my salary in a different currency?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "81",
+    "source_index": 1573,
+    "split": "tune",
+    "text": "I can't get money out of the ATM",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "82",
+    "source_index": 1199,
+    "split": "tune",
+    "text": "Why did I need to verfiy my identity?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "83",
+    "source_index": 2616,
+    "split": "tune",
+    "text": "Can you explain disposable cards?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "84",
+    "source_index": 2333,
+    "split": "tune",
+    "text": "I need to transfer funds into my account. How can I do this?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "85",
+    "source_index": 832,
+    "split": "tune",
+    "text": "What fees apply when using a card?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "86",
+    "source_index": 1943,
+    "split": "tune",
+    "text": "I have a problem!  The ATM stole my card!",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "87",
+    "source_index": 2906,
+    "split": "tune",
+    "text": "Using an ATM caused me to incur an additional fee. Why?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "88",
+    "source_index": 260,
+    "split": "tune",
+    "text": "What options do I have for holding currencies?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "89",
+    "source_index": 1241,
+    "split": "tune",
+    "text": "Is the PIN delivered separately?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "90",
+    "source_index": 2947,
+    "split": "tune",
+    "text": "How do I order a new card before It expires?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "91",
+    "source_index": 101,
+    "split": "tune",
+    "text": "What exchange rate do you use?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "92",
+    "source_index": 692,
+    "split": "tune",
+    "text": "I want to cancel a transfer right away! Can you help?",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "93",
+    "source_index": 1960,
+    "split": "tune",
+    "text": "I got double charged for a payment so how do I fix that?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "94",
+    "source_index": 753,
+    "split": "tune",
+    "text": "Is there an amount limit to my top-up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "95",
+    "source_index": 2035,
+    "split": "tune",
+    "text": "How can I check the source of my fund?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "96",
+    "source_index": 3028,
+    "split": "tune",
+    "text": "which kind of documentation do I need for identity check?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "97",
+    "source_index": 1807,
+    "split": "tune",
+    "text": "My card declined",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "98",
+    "source_index": 319,
+    "split": "tune",
+    "text": "Can I have it be delivered at a certain time?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "99",
+    "source_index": 2526,
+    "split": "tune",
+    "text": "Are there restrictions for my disposable card since it does not seem to be working?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "100",
+    "source_index": 1236,
+    "split": "tune",
+    "text": "The app won't let me log in as myself.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "101",
+    "source_index": 1991,
+    "split": "tune",
+    "text": "I was double charged",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "102",
+    "source_index": 190,
+    "split": "tune",
+    "text": "For some reason my account's been charged an extra dollar.",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "103",
+    "source_index": 1127,
+    "split": "tune",
+    "text": "I want to change my personal details.",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "104",
+    "source_index": 2588,
+    "split": "tune",
+    "text": "The exchange rate for my withdrawal isn't correct and doesn't match the actual exchange rate.",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "105",
+    "source_index": 620,
+    "split": "tune",
+    "text": "What are the charges for receiving money?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "106",
+    "source_index": 2552,
+    "split": "tune",
+    "text": "Payments from my disposable virtual card don't work",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "107",
+    "source_index": 1238,
+    "split": "tune",
+    "text": "Why can't I verify my id?",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "108",
+    "source_index": 346,
+    "split": "tune",
+    "text": "Will it automatically top-up money if there isn't a lot left?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "109",
+    "source_index": 426,
+    "split": "tune",
+    "text": "Can am I able to exchange currencies?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "110",
+    "source_index": 1767,
+    "split": "tune",
+    "text": "How long does it take for a refund?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "111",
+    "source_index": 1499,
+    "split": "tune",
+    "text": "A couple weeks ago some money was deducted from my account by some seller that I don't remember. I'm pretty sure I didn't do that, but is it possible to trace back who that is just to make sure?",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "112",
+    "source_index": 1274,
+    "split": "tune",
+    "text": "I can not find my card pin.",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "113",
+    "source_index": 1731,
+    "split": "tune",
+    "text": "If the transfer details have already but reviewed and confirmed that they are correct, what other reason would cause my transfer to be declined?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "114",
+    "source_index": 342,
+    "split": "tune",
+    "text": "Where is the auto top-up option?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "115",
+    "source_index": 2132,
+    "split": "tune",
+    "text": "In what ATM can I change my pin?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "116",
+    "source_index": 2971,
+    "split": "tune",
+    "text": "Does Google Play have an app to Top up?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "117",
+    "source_index": 874,
+    "split": "tune",
+    "text": "How long does it take for transfers to finish?  I sent funds to my pal, and she says that she has not gotten anything.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "118",
+    "source_index": 2264,
+    "split": "tune",
+    "text": "How can my friend transfer money to me?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "119",
+    "source_index": 1142,
+    "split": "tune",
+    "text": "Where can I go to update my personal profile?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "120",
+    "source_index": 588,
+    "split": "tune",
+    "text": "Why isn't my contactless not working?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "121",
+    "source_index": 1871,
+    "split": "tune",
+    "text": "How long can I expect a transfer to pend for?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "122",
+    "source_index": 1066,
+    "split": "tune",
+    "text": "Why hasn't my balance increased after depositing a check?",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "123",
+    "source_index": 1505,
+    "split": "tune",
+    "text": "It seems there is an incorrect listing of a direct debit payment on my app that I did not make",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "124",
+    "source_index": 735,
+    "split": "tune",
+    "text": "What is the limit to a top-up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "125",
+    "source_index": 56,
+    "split": "tune",
+    "text": "Can you tell me how to link one of your cards that I already have?",
+    "gold": "card_linking"
+  },
+  {
+    "item_id": "126",
+    "source_index": 3006,
+    "split": "tune",
+    "text": "How do you verify an identity?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "127",
+    "source_index": 978,
+    "split": "tune",
+    "text": "Which outlets accept my card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "128",
+    "source_index": 1347,
+    "split": "tune",
+    "text": "Cannot access my top up.",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "129",
+    "source_index": 1974,
+    "split": "tune",
+    "text": "I noticed after looking over my transactions that I have been charged twice from an earlier restaurant visit this week. Is it possible that one of these can be removed so I get the money back for the one that is not accurate?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "130",
+    "source_index": 2597,
+    "split": "tune",
+    "text": "I used the ATM machine to get money out for Holiday shopping and saw the outrageous charges. Why is that? I would not have used the ATM if I had known!",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "131",
+    "source_index": 253,
+    "split": "tune",
+    "text": "Can someone assist me with the details explaining which fiat currencies that you support?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "132",
+    "source_index": 1995,
+    "split": "tune",
+    "text": "I recently got charged twice from a restaurant that I was at this week and I would like for one of those payments to be removed from my account.",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "133",
+    "source_index": 1266,
+    "split": "tune",
+    "text": "I still don't have my pin.",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "134",
+    "source_index": 54,
+    "split": "tune",
+    "text": "Can I link my new card?",
+    "gold": "card_linking"
+  },
+  {
+    "item_id": "135",
+    "source_index": 2835,
+    "split": "tune",
+    "text": "Can I top up using an international card",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "136",
+    "source_index": 2509,
+    "split": "tune",
+    "text": "What locations can a card be delivered to?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "137",
+    "source_index": 1319,
+    "split": "tune",
+    "text": "Is it possible to get a Visa here?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "138",
+    "source_index": 233,
+    "split": "tune",
+    "text": "Why does it say pending cash withdrawal on my statement?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "139",
+    "source_index": 2747,
+    "split": "tune",
+    "text": "There is an error, the app says I made an ATM withdrawal and I didn't.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "140",
+    "source_index": 317,
+    "split": "tune",
+    "text": "can I choose a date for delivery?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "141",
+    "source_index": 2649,
+    "split": "tune",
+    "text": "Why didn`t my topup go through?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "142",
+    "source_index": 1528,
+    "split": "tune",
+    "text": "How do I reset a forgotten passcode, please?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "143",
+    "source_index": 2913,
+    "split": "tune",
+    "text": "Why did you charge me for a cash withdrawal?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "144",
+    "source_index": 322,
+    "split": "tune",
+    "text": "Will it automatically top-up or do I need to do that manually if there isn't much cash left?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "145",
+    "source_index": 339,
+    "split": "tune",
+    "text": "How do I make sure I don't run out of money on my card while traveling?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "146",
+    "source_index": 67,
+    "split": "tune",
+    "text": "how do I link a card I already have?",
+    "gold": "card_linking"
+  },
+  {
+    "item_id": "147",
+    "source_index": 2232,
+    "split": "tune",
+    "text": "Why was I charged a fee for a transfer?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "148",
+    "source_index": 3003,
+    "split": "tune",
+    "text": "How can I verify my indentity?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "149",
+    "source_index": 2501,
+    "split": "tune",
+    "text": "How can I get a physical card",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "150",
+    "source_index": 1168,
+    "split": "tune",
+    "text": "Why is identity verification mandatory?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "151",
+    "source_index": 922,
+    "split": "tune",
+    "text": "Where can I find a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "152",
+    "source_index": 1354,
+    "split": "tune",
+    "text": "Who can top up my accounts?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "153",
+    "source_index": 1384,
+    "split": "tune",
+    "text": "Is there a limit to how many transactions I can make on one disposable card?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "154",
+    "source_index": 1595,
+    "split": "tune",
+    "text": "Why could I not choose cash at the ATM?",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "155",
+    "source_index": 341,
+    "split": "tune",
+    "text": "If I will be traveling, is there a way to auto top-up my card on certain days?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "156",
+    "source_index": 2962,
+    "split": "tune",
+    "text": "My top-up for Google Pay isn't working",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "157",
+    "source_index": 1053,
+    "split": "tune",
+    "text": "cash deposit to my account has shown a red flag.",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "158",
+    "source_index": 2675,
+    "split": "tune",
+    "text": "I really need money from my card today, but my card is getting declined. Please help!!",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "159",
+    "source_index": 441,
+    "split": "tune",
+    "text": "I can't find my card and think it may have been stolen.",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "160",
+    "source_index": 2520,
+    "split": "tune",
+    "text": "Why is my disposable virtual card being denied?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "161",
+    "source_index": 1695,
+    "split": "tune",
+    "text": "I ordered something ages ago online but it's simply not arriving. I've got enough! Give me back my money, I'm not paying these people.",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "162",
+    "source_index": 1798,
+    "split": "tune",
+    "text": "How long will it take to get my refund",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "163",
+    "source_index": 2457,
+    "split": "tune",
+    "text": "I'm looking for the option to top up by cheque.",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "164",
+    "source_index": 87,
+    "split": "tune",
+    "text": "Please advise what is the exchange rate",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "165",
+    "source_index": 409,
+    "split": "tune",
+    "text": "How do I interconvert between AUD and GBP?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "166",
+    "source_index": 2149,
+    "split": "tune",
+    "text": "Which cash machines will allow me to change my PIN?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "167",
+    "source_index": 2658,
+    "split": "tune",
+    "text": "I need to know why my credit card was declined for top up? What is the deal here and why did it not go through?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "168",
+    "source_index": 2195,
+    "split": "tune",
+    "text": "Can you help with a transfer to an account",
+    "gold": "beneficiary_not_allowed"
+  },
+  {
+    "item_id": "169",
+    "source_index": 216,
+    "split": "tune",
+    "text": "how long til my cash out goes through?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "170",
+    "source_index": 2871,
+    "split": "tune",
+    "text": "What is the process for activating my card?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "171",
+    "source_index": 2152,
+    "split": "tune",
+    "text": "I need to change my pin but I am on the road.",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "172",
+    "source_index": 1195,
+    "split": "tune",
+    "text": "Can I use my account if the identity verification is not complete?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "173",
+    "source_index": 2663,
+    "split": "tune",
+    "text": "Can you tell me if my pop-up went through?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "174",
+    "source_index": 1252,
+    "split": "tune",
+    "text": "do i need a pin",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "175",
+    "source_index": 2497,
+    "split": "tune",
+    "text": "Please tell me how to get a physical card.",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "176",
+    "source_index": 2506,
+    "split": "tune",
+    "text": "Where can my card be delivered?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "177",
+    "source_index": 793,
+    "split": "tune",
+    "text": "I just got $20 when I tried to get $100",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "178",
+    "source_index": 2011,
+    "split": "tune",
+    "text": "What is the source of my available funds?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "179",
+    "source_index": 794,
+    "split": "tune",
+    "text": "The right amount of cash was not sent to me.",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "180",
+    "source_index": 2804,
+    "split": "tune",
+    "text": "Will I get charged for topping off my card?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "181",
+    "source_index": 811,
+    "split": "tune",
+    "text": "Why are there fees for card usage?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "182",
+    "source_index": 2029,
+    "split": "tune",
+    "text": "Why do you need to know where my money is coming from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "183",
+    "source_index": 2567,
+    "split": "tune",
+    "text": "I attempted to get money using a foreign currency at an ATM but the rate was highly inaccurate!",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "184",
+    "source_index": 2422,
+    "split": "tune",
+    "text": "Where can I get a second card?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "185",
+    "source_index": 268,
+    "split": "tune",
+    "text": "I want to make a currency exchange to EU.",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "186",
+    "source_index": 1345,
+    "split": "tune",
+    "text": "Is it possible to use my credit card to transfer money?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "187",
+    "source_index": 1033,
+    "split": "tune",
+    "text": "Causes of top-up cancellation",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "188",
+    "source_index": 2169,
+    "split": "tune",
+    "text": "I tried to transfer money but it said it wasn't possible? I've done this before and it worked why isn't it working now?",
+    "gold": "beneficiary_not_allowed"
+  },
+  {
+    "item_id": "189",
+    "source_index": 397,
+    "split": "tune",
+    "text": "Nothing goes through on my card.",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "190",
+    "source_index": 156,
+    "split": "tune",
+    "text": "How can I check the exchange rate applied to my transaction?",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "191",
+    "source_index": 844,
+    "split": "tune",
+    "text": "I tried to send someone money but they haven't received it.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "192",
+    "source_index": 2997,
+    "split": "tune",
+    "text": "Why isn't my top up working using my saved American Express in ApplePay?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "193",
+    "source_index": 2434,
+    "split": "tune",
+    "text": "If you send me more cards, are there any charges?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "194",
+    "source_index": 2081,
+    "split": "tune",
+    "text": "My card payment was reverted.  Why?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "195",
+    "source_index": 255,
+    "split": "tune",
+    "text": "How do I change currencies to euros?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "196",
+    "source_index": 1799,
+    "split": "tune",
+    "text": "I should have received a refund however it is not showing on my statement",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "197",
+    "source_index": 2681,
+    "split": "tune",
+    "text": "the balance on my account didnt change when i transferred money",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "198",
+    "source_index": 1473,
+    "split": "tune",
+    "text": "Where can I find an ATM to use this card?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "199",
+    "source_index": 1486,
+    "split": "tune",
+    "text": "someone stole my money",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "200",
+    "source_index": 3040,
+    "split": "tune",
+    "text": "I live in the US but want to get a card",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "201",
+    "source_index": 1434,
+    "split": "tune",
+    "text": "I think my child used my card while I wasn't home.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "202",
+    "source_index": 989,
+    "split": "tune",
+    "text": "areas card is accpeted",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "203",
+    "source_index": 1031,
+    "split": "tune",
+    "text": "has my top-up has been cancelled",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "204",
+    "source_index": 158,
+    "split": "tune",
+    "text": "The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "205",
+    "source_index": 1272,
+    "split": "tune",
+    "text": "Help me find my card pin!",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "206",
+    "source_index": 836,
+    "split": "tune",
+    "text": "Why do you charge fees on card payments?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "207",
+    "source_index": 2017,
+    "split": "tune",
+    "text": "Help me check where the funds came from.",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "208",
+    "source_index": 449,
+    "split": "tune",
+    "text": "Help.  I have a stolen card!",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "209",
+    "source_index": 2095,
+    "split": "tune",
+    "text": "Do you know why my card payment was reverted?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "210",
+    "source_index": 274,
+    "split": "tune",
+    "text": "How man currencies can I hold?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "211",
+    "source_index": 2483,
+    "split": "tune",
+    "text": "Where can I get my card at?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "212",
+    "source_index": 928,
+    "split": "tune",
+    "text": "what is the virtual card",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "213",
+    "source_index": 1763,
+    "split": "tune",
+    "text": "I was supposed to get a purchase refunded but I don't see the money in my account",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "214",
+    "source_index": 1110,
+    "split": "tune",
+    "text": "I see a charge on my account that I don't recall making. I feel like my account may have been compromised.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "215",
+    "source_index": 712,
+    "split": "tune",
+    "text": "I made a mistake and need to cancel a transaction",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "216",
+    "source_index": 1676,
+    "split": "tune",
+    "text": "I can't find my phone but it has all my credit card information.",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "217",
+    "source_index": 1264,
+    "split": "tune",
+    "text": "Please help in finding my card PIN, thank you!",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "218",
+    "source_index": 1436,
+    "split": "tune",
+    "text": "I think someone copied the numbers on my card and is using them.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "219",
+    "source_index": 1478,
+    "split": "tune",
+    "text": "Is there places where I can't withdraw money?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "220",
+    "source_index": 1405,
+    "split": "tune",
+    "text": "Freeze my account it's been hacked.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "221",
+    "source_index": 1929,
+    "split": "tune",
+    "text": "How can I get my card out of the damn ATM?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "222",
+    "source_index": 1849,
+    "split": "tune",
+    "text": "I submitted my transfer but it has been pending for quite a while and I was wondering what takes so long? why hasn't it completed",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "223",
+    "source_index": 648,
+    "split": "tune",
+    "text": "What is going on? My top-up is still pending. I use your system all the time but now it is just showing as pending.",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "224",
+    "source_index": 1366,
+    "split": "tune",
+    "text": "What's the most disposable cards I can have?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "225",
+    "source_index": 2720,
+    "split": "tune",
+    "text": "Think someone has took money out with my card. What shall I do?",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "226",
+    "source_index": 1232,
+    "split": "tune",
+    "text": "It doesn't let me verify my identity.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "227",
+    "source_index": 1479,
+    "split": "tune",
+    "text": "locations to withdraw money",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "228",
+    "source_index": 2698,
+    "split": "tune",
+    "text": "I can't see my latest bank transfer",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "229",
+    "source_index": 2096,
+    "split": "tune",
+    "text": "My credit card cancelled a payment for a purchase.",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "230",
+    "source_index": 2325,
+    "split": "tune",
+    "text": "I need to transfer money into my account, how do I go about doing this?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "231",
+    "source_index": 1186,
+    "split": "tune",
+    "text": "Since my id hasn't been verified, when can I use my account?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "232",
+    "source_index": 1215,
+    "split": "tune",
+    "text": "The app will not let me into my account.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "233",
+    "source_index": 983,
+    "split": "tune",
+    "text": "Is my card usable anywhere?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "234",
+    "source_index": 2250,
+    "split": "tune",
+    "text": "My salary is received in the form of GBP. Do I need to do anything specific to configure this?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "235",
+    "source_index": 2105,
+    "split": "tune",
+    "text": "There must be an issue, why has my card been cancelled?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "236",
+    "source_index": 1539,
+    "split": "tune",
+    "text": "I have forgotten my passcode to access my app",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "237",
+    "source_index": 847,
+    "split": "tune",
+    "text": "I transferred money but the recipient says it has not arrived. Why would this be?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "238",
+    "source_index": 1792,
+    "split": "tune",
+    "text": "It's been a week and I have done everything that I was asked to do and still nothing. I have contacted the seller and have not gotten a response. Please understand my frustration and put the money back in my account.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "239",
+    "source_index": 2261,
+    "split": "tune",
+    "text": "Can this be used to receive my salary?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "240",
+    "source_index": 1172,
+    "split": "tune",
+    "text": "Why do you require all my identity details?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "241",
+    "source_index": 1242,
+    "split": "tune",
+    "text": "I do not have my pin",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "242",
+    "source_index": 906,
+    "split": "tune",
+    "text": "Do you support all cards and currencies?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "243",
+    "source_index": 215,
+    "split": "tune",
+    "text": "Is my pending cash withdrawal processed?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "244",
+    "source_index": 1848,
+    "split": "tune",
+    "text": "I had made a transfer but its still pending.",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "245",
+    "source_index": 147,
+    "split": "tune",
+    "text": "Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please.",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "246",
+    "source_index": 1860,
+    "split": "tune",
+    "text": "Please explain why the transfers shows up as pending?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "247",
+    "source_index": 2386,
+    "split": "tune",
+    "text": "How is the top-up card verified?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "248",
+    "source_index": 1415,
+    "split": "tune",
+    "text": "I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "249",
+    "source_index": 1688,
+    "split": "tune",
+    "text": "Can I have a refund?",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "250",
+    "source_index": 1872,
+    "split": "tune",
+    "text": "For how long will my transfer be pending?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "251",
+    "source_index": 633,
+    "split": "tune",
+    "text": "Is a SWIFT transfer okay?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "252",
+    "source_index": 1548,
+    "split": "tune",
+    "text": "I forgot the code to access the app.",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "253",
+    "source_index": 747,
+    "split": "tune",
+    "text": "What's the top up limit?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "254",
+    "source_index": 600,
+    "split": "tune",
+    "text": "how much do you charge to accept transfers",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "255",
+    "source_index": 1397,
+    "split": "tune",
+    "text": "What are the limits to using disposable virtual cards?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "256",
+    "source_index": 788,
+    "split": "tune",
+    "text": "The ATM gave me less cash than I requested",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "257",
+    "source_index": 415,
+    "split": "tune",
+    "text": "How do I exchange my GBP to AUD?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "258",
+    "source_index": 2209,
+    "split": "tune",
+    "text": "What is the maximum I can transfer before I incur fees?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "259",
+    "source_index": 1089,
+    "split": "tune",
+    "text": "I don't recall making that payment?",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "260",
+    "source_index": 2181,
+    "split": "tune",
+    "text": "I couldn't do a transfer to an account",
+    "gold": "beneficiary_not_allowed"
+  },
+  {
+    "item_id": "261",
+    "source_index": 2330,
+    "split": "tune",
+    "text": "I NEED TO KNOW HOW TO TRANSFER MONEY INTO MY BANK ACCOUNT. PLEASE HELP",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "262",
+    "source_index": 2469,
+    "split": "tune",
+    "text": "What can I pay with? Does cash work?",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "263",
+    "source_index": 1603,
+    "split": "tune",
+    "text": "How do i finalize a card payment",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "264",
+    "source_index": 1466,
+    "split": "tune",
+    "text": "Where can I use this card at an ATM?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "265",
+    "source_index": 2307,
+    "split": "tune",
+    "text": "My attempted transfer failed.",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "266",
+    "source_index": 486,
+    "split": "tune",
+    "text": "Is there an age minimum?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "267",
+    "source_index": 965,
+    "split": "tune",
+    "text": "Can my card be used everywhere?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "268",
+    "source_index": 1663,
+    "split": "tune",
+    "text": "I was mugged and everything taken.  What do I do to protect my account?",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "269",
+    "source_index": 2004,
+    "split": "tune",
+    "text": "where to funds come from",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "270",
+    "source_index": 2216,
+    "split": "tune",
+    "text": "Why were there additional charges when transferring?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "271",
+    "source_index": 1141,
+    "split": "tune",
+    "text": "My address has updated and I need to change it.",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "272",
+    "source_index": 1412,
+    "split": "tune",
+    "text": "How can I stop fraud on my account right now?",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "273",
+    "source_index": 1930,
+    "split": "tune",
+    "text": "The atm won't give my card back!",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "274",
+    "source_index": 636,
+    "split": "tune",
+    "text": "What us the fee to transfer money from my bank?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "275",
+    "source_index": 699,
+    "split": "tune",
+    "text": "Can I cancel a transfer if is already processed?",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "276",
+    "source_index": 1728,
+    "split": "tune",
+    "text": "My transfers are being declined. IT has always worked for me but now it's declining my card. I've tried several times.",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "277",
+    "source_index": 1824,
+    "split": "tune",
+    "text": "I have no idea why my card payment did not work.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "278",
+    "source_index": 2746,
+    "split": "tune",
+    "text": "How do I cancel my card? There are charges on my account that I didn't make.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "279",
+    "source_index": 398,
+    "split": "tune",
+    "text": "How do I find out why my card won't work?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "280",
+    "source_index": 125,
+    "split": "tune",
+    "text": "This rate is too low. Are you sure your using the right exchange rate.",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "281",
+    "source_index": 2456,
+    "split": "tune",
+    "text": "I need to top up cash, How do I do it?",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "282",
+    "source_index": 513,
+    "split": "tune",
+    "text": "How old do my kids have to be to use your service?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "283",
+    "source_index": 1973,
+    "split": "tune",
+    "text": "It looks like this week I was double charged for a couple things. Is there any way that you can look into this for me and return the double charged items back to my card?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "284",
+    "source_index": 743,
+    "split": "tune",
+    "text": "What is the top-ups limit?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "285",
+    "source_index": 448,
+    "split": "tune",
+    "text": "Help! Someone stole my card!",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "286",
+    "source_index": 2950,
+    "split": "tune",
+    "text": "The expiration date of my card is approaching .",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "287",
+    "source_index": 689,
+    "split": "tune",
+    "text": "How can I cancel a transfer?",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "288",
+    "source_index": 287,
+    "split": "tune",
+    "text": "I live in the US, how long will it take for delivery?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "289",
+    "source_index": 241,
+    "split": "tune",
+    "text": "I want to know how many different currencies my money can be in",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "290",
+    "source_index": 2298,
+    "split": "tune",
+    "text": "The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue ?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "291",
+    "source_index": 1487,
+    "split": "tune",
+    "text": "There's a Direct Debit payment in my account that I didn't make",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "292",
+    "source_index": 229,
+    "split": "tune",
+    "text": "I have a pending transaction in my app. How is it still pending if I pulled the cash out from the ATM earlier?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "293",
+    "source_index": 2491,
+    "split": "tune",
+    "text": "Do you ship cards to where I live?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "294",
+    "source_index": 1802,
+    "split": "tune",
+    "text": "Why was my card payment declined?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "295",
+    "source_index": 305,
+    "split": "tune",
+    "text": "Send my card as soon as you are able to.",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "296",
+    "source_index": 998,
+    "split": "tune",
+    "text": "What can I use my card to pay for?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "297",
+    "source_index": 25,
+    "split": "tune",
+    "text": "What is the tracking number for my card that was mailed?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "298",
+    "source_index": 2829,
+    "split": "tune",
+    "text": "Is it okay to use a bank card to top up",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "299",
+    "source_index": 461,
+    "split": "tune",
+    "text": "Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "300",
+    "source_index": 472,
+    "split": "tune",
+    "text": "I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "301",
+    "source_index": 541,
+    "split": "tune",
+    "text": "Help! I forgot my PIN and have been locked out of using my card.",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "302",
+    "source_index": 494,
+    "split": "tune",
+    "text": "What is the age to open an account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "303",
+    "source_index": 362,
+    "split": "tune",
+    "text": "My card appears to be broken how can I fix it?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "304",
+    "source_index": 2306,
+    "split": "tune",
+    "text": "Hi, I'm buying a flat and I'm trying to get my mortgage to go though. Every time I check I simply get an error message. Is there any way you can help me get this money transferred over. Thanks!",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "305",
+    "source_index": 911,
+    "split": "tune",
+    "text": "What cards to do you support to top up.",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "306",
+    "source_index": 278,
+    "split": "tune",
+    "text": "Do you support the exchange of EUR from my currency.",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "307",
+    "source_index": 716,
+    "split": "tune",
+    "text": "I need help cancelling a transaction.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "308",
+    "source_index": 311,
+    "split": "tune",
+    "text": "When can I expect to receive my new card?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "309",
+    "source_index": 2823,
+    "split": "tune",
+    "text": "What do you charge for top ups?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "310",
+    "source_index": 2967,
+    "split": "tune",
+    "text": "Is it possible to top up with Apple Pay?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "311",
+    "source_index": 554,
+    "split": "tune",
+    "text": "How do I unblock my PIN?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "312",
+    "source_index": 2247,
+    "split": "tune",
+    "text": "I get paid in GBP. Should I configure this and if so, where?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "313",
+    "source_index": 1291,
+    "split": "tune",
+    "text": "I'd rather get a Mastercard",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "314",
+    "source_index": 859,
+    "split": "tune",
+    "text": "I sent money.  They haven't received it.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "315",
+    "source_index": 1363,
+    "split": "tune",
+    "text": "How do I make more than one disposable card in a day?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "316",
+    "source_index": 808,
+    "split": "tune",
+    "text": "I would appreciate that someone let me know when there is an extra charge for payments. I was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before.",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "317",
+    "source_index": 3067,
+    "split": "tune",
+    "text": "What countries will my card be supported in?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "318",
+    "source_index": 2664,
+    "split": "tune",
+    "text": "can you check why I wasn't able to top up?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "319",
+    "source_index": 1382,
+    "split": "tune",
+    "text": "Is it possible to make several disposable cards in a day?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "320",
+    "source_index": 758,
+    "split": "tune",
+    "text": "As for limits are top ups included?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "321",
+    "source_index": 1910,
+    "split": "tune",
+    "text": "I am extremely unhappy with this app and want to get rid of my account?",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "322",
+    "source_index": 357,
+    "split": "tune",
+    "text": "Is there a top-up feature, if there isn't a lot of money left?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "323",
+    "source_index": 2806,
+    "split": "tune",
+    "text": "Are there fees for top ups?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "324",
+    "source_index": 1211,
+    "split": "tune",
+    "text": "I can't verify my ID.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "325",
+    "source_index": 2071,
+    "split": "tune",
+    "text": "I have to transfer something to China as fast as I can. How long will it take to arrive in China?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "326",
+    "source_index": 578,
+    "split": "tune",
+    "text": "My contactless is not working",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "327",
+    "source_index": 1080,
+    "split": "tune",
+    "text": "I have a strange payment in my statement",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "328",
+    "source_index": 368,
+    "split": "tune",
+    "text": "How do I unblock my card using the app?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "329",
+    "source_index": 2202,
+    "split": "tune",
+    "text": "Is there a reason I was charged a fee to transfer?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "330",
+    "source_index": 805,
+    "split": "tune",
+    "text": "I used my card for a purchase and was charged a fee",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "331",
+    "source_index": 713,
+    "split": "tune",
+    "text": "I made an error in payment yesterday and I need it fixed asap because it's for my rent tomorrow.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "332",
+    "source_index": 2281,
+    "split": "tune",
+    "text": "Please help me make a transfer. I keep receiving an error and I'm trying to make the initial mortgage payment for a flat I'm buying. What is the deal here?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "333",
+    "source_index": 154,
+    "split": "tune",
+    "text": "Why was the exchange rate incorrect for an item I recently bought?",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "334",
+    "source_index": 833,
+    "split": "tune",
+    "text": "Why do you charge for payments? Why aren't your charges clearly laid out in the agreement?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "335",
+    "source_index": 2601,
+    "split": "tune",
+    "text": "Can I create a disposable virtual card?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "336",
+    "source_index": 2138,
+    "split": "tune",
+    "text": "I want to choose a different PIN.",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "337",
+    "source_index": 1939,
+    "split": "tune",
+    "text": "ATM still has my card",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "338",
+    "source_index": 2864,
+    "split": "tune",
+    "text": "Activating my card",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "339",
+    "source_index": 1772,
+    "split": "tune",
+    "text": "Still waiting on a refund.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "340",
+    "source_index": 1542,
+    "split": "tune",
+    "text": "Where can I reset the passcode?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "341",
+    "source_index": 3063,
+    "split": "tune",
+    "text": "What countries are you currently in?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "342",
+    "source_index": 2080,
+    "split": "tune",
+    "text": "I think my card payment has been stopped",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "343",
+    "source_index": 219,
+    "split": "tune",
+    "text": "Hey, my card was declined at an ATM in the city centre theatre. My account says the transaction is pending, though. I didn't get the money, though, so what does that mean?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "344",
+    "source_index": 3015,
+    "split": "tune",
+    "text": "I would like to know how I can verify my Identity.",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "345",
+    "source_index": 1449,
+    "split": "tune",
+    "text": "Which ATMs accept this placard ?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "346",
+    "source_index": 824,
+    "split": "tune",
+    "text": "So what items  actually come  with  extra  fees",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "347",
+    "source_index": 2145,
+    "split": "tune",
+    "text": "I need to change my PIN.",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "348",
+    "source_index": 1947,
+    "split": "tune",
+    "text": "The stupid machine just swallowed my card!! I need a new one ASAP",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "349",
+    "source_index": 1115,
+    "split": "tune",
+    "text": "There is a strange payment on my statement. What should I do?",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "350",
+    "source_index": 2235,
+    "split": "tune",
+    "text": "I transferred money and was charged and want to know why.",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "351",
+    "source_index": 2797,
+    "split": "tune",
+    "text": "Does it cost anything for exchanges?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "352",
+    "source_index": 1006,
+    "split": "tune",
+    "text": "The app wouldn't accept my top up.",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "353",
+    "source_index": 1126,
+    "split": "tune",
+    "text": "got married and need to change name",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "354",
+    "source_index": 1052,
+    "split": "tune",
+    "text": "I made a deposit this morning but it is still pending?",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "355",
+    "source_index": 3073,
+    "split": "tune",
+    "text": "What countries do you currently do business in?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "356",
+    "source_index": 2922,
+    "split": "tune",
+    "text": "When my card expires what happens to my account?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "357",
+    "source_index": 2316,
+    "split": "tune",
+    "text": "Why didn't my transfer go through?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "358",
+    "source_index": 503,
+    "split": "tune",
+    "text": "I would like an account for my children, how do I go about doing this?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "359",
+    "source_index": 199,
+    "split": "tune",
+    "text": "Can you please check why I am having this extra fee on my statement.",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "360",
+    "source_index": 394,
+    "split": "tune",
+    "text": "The card I have doesn't work.",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "361",
+    "source_index": 2053,
+    "split": "tune",
+    "text": "Will my transfer immediately show up in my account?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "362",
+    "source_index": 736,
+    "split": "tune",
+    "text": "Tell me if there are any top-up limits?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "363",
+    "source_index": 1935,
+    "split": "tune",
+    "text": "The ATM ate my card.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "364",
+    "source_index": 1493,
+    "split": "tune",
+    "text": "There was a transaction from two weeks ago from a business that I don't know. I'm fairly certain it wasn't me who made it, but is it an option to trace it to confirm?",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "365",
+    "source_index": 2313,
+    "split": "tune",
+    "text": "help me with my transfer",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "366",
+    "source_index": 1864,
+    "split": "tune",
+    "text": "When will the transfer be completed?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "367",
+    "source_index": 1460,
+    "split": "tune",
+    "text": "Can I get cash with this card anywhere?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "368",
+    "source_index": 2093,
+    "split": "tune",
+    "text": "Can you tell my why my card payment has been reverted.",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "369",
+    "source_index": 100,
+    "split": "tune",
+    "text": "What is the base of the exchange rates?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "370",
+    "source_index": 23,
+    "split": "tune",
+    "text": "I ordered my card 2 weeks ago and it still isn't here? What do I do?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "371",
+    "source_index": 81,
+    "split": "tune",
+    "text": "What exchange rates do you offer?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "372",
+    "source_index": 374,
+    "split": "tune",
+    "text": "I think my card is broken",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "373",
+    "source_index": 2623,
+    "split": "tune",
+    "text": "What is the process of obtaining a disposable virtual card",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "374",
+    "source_index": 1261,
+    "split": "tune",
+    "text": "Where can I find the card PIN?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "375",
+    "source_index": 2522,
+    "split": "tune",
+    "text": "My disposable virtual card is broken.",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "376",
+    "source_index": 2344,
+    "split": "tune",
+    "text": "CAN YOU EXPLAIN HOW TO TRANSFER MONEY INTO MY  ACCOUNT FOR ME?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "377",
+    "source_index": 2833,
+    "split": "tune",
+    "text": "Is there a charge or discount if I use a European bank in a top up?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "378",
+    "source_index": 185,
+    "split": "tune",
+    "text": "Where did the extra fee on my statement come from?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "379",
+    "source_index": 1685,
+    "split": "tune",
+    "text": "I need a refund on an item I have not received.  Am I able to simply cancel the payment?  I don't know how to do this.",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "380",
+    "source_index": 1183,
+    "split": "tune",
+    "text": "Do I really need to verify my identity?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "381",
+    "source_index": 128,
+    "split": "tune",
+    "text": "I bought something in a foreign currency but the rate applied is wrong!",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "382",
+    "source_index": 3007,
+    "split": "tune",
+    "text": "Is there a specific type you need for identity verification?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "383",
+    "source_index": 2608,
+    "split": "tune",
+    "text": "How do I use a disposable virtual card?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "384",
+    "source_index": 1808,
+    "split": "tune",
+    "text": "Can you look at my account ans see why my card was declined",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "385",
+    "source_index": 2130,
+    "split": "tune",
+    "text": "I need a new Pin how do I go about that?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "386",
+    "source_index": 1408,
+    "split": "tune",
+    "text": "Someone is using my account to do online shopping! Please freeze it asap",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "387",
+    "source_index": 853,
+    "split": "tune",
+    "text": "I just finished sending money, but it's not logging on the recipient side.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "388",
+    "source_index": 1835,
+    "split": "tune",
+    "text": "My card didn't work in one of the shops.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "389",
+    "source_index": 751,
+    "split": "tune",
+    "text": "what is the most i can top up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "390",
+    "source_index": 558,
+    "split": "tune",
+    "text": "My PIN is not working and I need assistance.",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "391",
+    "source_index": 1576,
+    "split": "tune",
+    "text": "I was declined when I tried to get cash.",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "392",
+    "source_index": 22,
+    "split": "tune",
+    "text": "How long should my new card take to arrive?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "393",
+    "source_index": 2896,
+    "split": "tune",
+    "text": "What is the reason for this fee I got after a simple cash withdrawal?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "394",
+    "source_index": 2533,
+    "split": "tune",
+    "text": "Why doesn't my disposable virtual card work?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "395",
+    "source_index": 1281,
+    "split": "tune",
+    "text": "Do I qualify for a visa card?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "396",
+    "source_index": 440,
+    "split": "tune",
+    "text": "My entire gym bag, including my wallet, was stolen out of my locker today. Everything in my wallet is gone - how do I block the card to make it can't be used?",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "397",
+    "source_index": 507,
+    "split": "tune",
+    "text": "How old do you have to be to be able to open an account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "398",
+    "source_index": 2692,
+    "split": "tune",
+    "text": "Hello I made a bank transfer couple hours ago from my UK account but it doesn't show up yet. Can you please check if everything is alright with it?",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "399",
+    "source_index": 2508,
+    "split": "tune",
+    "text": "Where do I order my card?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "400",
+    "source_index": 972,
+    "split": "tune",
+    "text": "What places can I use my card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "401",
+    "source_index": 2780,
+    "split": "tune",
+    "text": "If I need to exchange currency is there an extra fee?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "402",
+    "source_index": 2575,
+    "split": "tune",
+    "text": "Will there be additional costs of I make a withdrawal from a local ATM of British pounds? I need some cash to feel comfortable on the journey home",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "403",
+    "source_index": 1615,
+    "split": "tune",
+    "text": "How long does an item I bought show as pending?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "404",
+    "source_index": 181,
+    "split": "tune",
+    "text": "I got a extra €1 fee in my statement",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "405",
+    "source_index": 1104,
+    "split": "tune",
+    "text": "I have a payment listed in error.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "406",
+    "source_index": 1348,
+    "split": "tune",
+    "text": "Are my friends able to add funds to my account?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "407",
+    "source_index": 2433,
+    "split": "tune",
+    "text": "Am I able to get a second card?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "408",
+    "source_index": 91,
+    "split": "tune",
+    "text": "What are the most current exchange rates?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "409",
+    "source_index": 577,
+    "split": "tune",
+    "text": "How can I make my contactless work for the metro?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "410",
+    "source_index": 990,
+    "split": "tune",
+    "text": "places i can use the card",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "411",
+    "source_index": 1012,
+    "split": "tune",
+    "text": "I got topped up but the application reverted it.",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "412",
+    "source_index": 1214,
+    "split": "tune",
+    "text": "Why isn't my ID being verified?",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "413",
+    "source_index": 2923,
+    "split": "tune",
+    "text": "What do I do when my card expires?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "414",
+    "source_index": 476,
+    "split": "tune",
+    "text": "I cannot find my credit card.",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "415",
+    "source_index": 1444,
+    "split": "tune",
+    "text": "Are there any specific ATMs that this card can be used at?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "416",
+    "source_index": 616,
+    "split": "tune",
+    "text": "If I transfer money from my bank to top-up my account will I be charged?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "417",
+    "source_index": 1358,
+    "split": "tune",
+    "text": "Why can't I see the top-up amount I just added to my account?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "418",
+    "source_index": 1417,
+    "split": "tune",
+    "text": "My card is being used online to make a bunch of purchases! Someone else is using it fraudulently. Can you help me freeze it?",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "419",
+    "source_index": 115,
+    "split": "tune",
+    "text": "why do your exchange rates change",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "420",
+    "source_index": 1842,
+    "split": "tune",
+    "text": "Why is my transfer not done yet?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "421",
+    "source_index": 2726,
+    "split": "tune",
+    "text": "There is a suspicious cash withdraw on the account.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "422",
+    "source_index": 2050,
+    "split": "tune",
+    "text": "How long until the money is in my account?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "423",
+    "source_index": 886,
+    "split": "tune",
+    "text": "I only own one other credit card from the USA. Will it be accepted?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "424",
+    "source_index": 619,
+    "split": "tune",
+    "text": "Will topping up by transfer lead to a charge on my account?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "425",
+    "source_index": 2212,
+    "split": "tune",
+    "text": "Do charge fees for transfers?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "426",
+    "source_index": 2948,
+    "split": "tune",
+    "text": "Can I receive a new card while I am in China?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "427",
+    "source_index": 2645,
+    "split": "tune",
+    "text": "please tell me why my top-up failed.",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "428",
+    "source_index": 179,
+    "split": "tune",
+    "text": "What would be the reason there's an extra fee on my statement?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "429",
+    "source_index": 2296,
+    "split": "tune",
+    "text": "My transfer will not go through.",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "430",
+    "source_index": 810,
+    "split": "tune",
+    "text": "Why did I have to pay extra because I paid with card?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "431",
+    "source_index": 2714,
+    "split": "tune",
+    "text": "I made a bank transfer and my account balance did not show it.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "432",
+    "source_index": 1833,
+    "split": "tune",
+    "text": "I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "433",
+    "source_index": 2741,
+    "split": "tune",
+    "text": "Some cash is showing up in my app that I did not get.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "434",
+    "source_index": 1008,
+    "split": "tune",
+    "text": "I believe my money did not go through with my top up, was there a problem on your end?",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "435",
+    "source_index": 1882,
+    "split": "tune",
+    "text": "My account needs to be deleted.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "436",
+    "source_index": 1584,
+    "split": "tune",
+    "text": "The ATM keeps declining my card. I tried at two different ATMs. Can you tell me if there's an issue with my account?",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "437",
+    "source_index": 2938,
+    "split": "tune",
+    "text": "What do I do when my card is about to expire?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "438",
+    "source_index": 1953,
+    "split": "tune",
+    "text": "I was taking out funds and was unable to regain my card.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "439",
+    "source_index": 2912,
+    "split": "tune",
+    "text": "I was charged for a cash withdrawal.",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "440",
+    "source_index": 1620,
+    "split": "tune",
+    "text": "Why is a payment showing up on my card as pending?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "441",
+    "source_index": 2400,
+    "split": "tune",
+    "text": "Would it be possible to get another card?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "442",
+    "source_index": 338,
+    "split": "tune",
+    "text": "How can I top up automatically?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "443",
+    "source_index": 1422,
+    "split": "tune",
+    "text": "My card has been compromised",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "444",
+    "source_index": 2599,
+    "split": "tune",
+    "text": "Is there a local ATM that will provide British pounds, I have no money for my homeward journey and do not feel comfortable waiting until  I arrive in Britain. Will a withdrawal involve extra charges?",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "445",
+    "source_index": 918,
+    "split": "tune",
+    "text": "What currencies or cards do you support for topping up?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "446",
+    "source_index": 1170,
+    "split": "tune",
+    "text": "I would like to not have to do the identity verification.",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "447",
+    "source_index": 178,
+    "split": "tune",
+    "text": "Why are there so many fees on my statement?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "448",
+    "source_index": 419,
+    "split": "tune",
+    "text": "I need AUD not GBP, how do I change it?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "449",
+    "source_index": 467,
+    "split": "tune",
+    "text": "My card was taken from me",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "450",
+    "source_index": 656,
+    "split": "tune",
+    "text": "why hasn't my top up gone through yet",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "451",
+    "source_index": 1490,
+    "split": "tune",
+    "text": "Why is there a direct debit payment on my app that is not from me?",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "452",
+    "source_index": 1913,
+    "split": "tune",
+    "text": "I wish to close my account. I do not like the service you provide.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "453",
+    "source_index": 1270,
+    "split": "tune",
+    "text": "Where can I find my PIN?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "454",
+    "source_index": 2644,
+    "split": "tune",
+    "text": "Why did the app deny my top up?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "455",
+    "source_index": 2865,
+    "split": "tune",
+    "text": "When will my card be activated?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "456",
+    "source_index": 929,
+    "split": "tune",
+    "text": "how do i get a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "457",
+    "source_index": 1786,
+    "split": "tune",
+    "text": "I am missing a refund.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "458",
+    "source_index": 1269,
+    "split": "tune",
+    "text": "I need my PIN",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "459",
+    "source_index": 651,
+    "split": "tune",
+    "text": "So, I am a new customer and attempted to top up for the very first time today. It's already been pending for half an hour and doesn't seem to be working. I need to please get this fixed.",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "460",
+    "source_index": 659,
+    "split": "tune",
+    "text": "I topped up by card a while ago and it's still pending, surely it should be done by now?",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "461",
+    "source_index": 183,
+    "split": "tune",
+    "text": "Why was I overcharged a pound!?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "462",
+    "source_index": 2857,
+    "split": "tune",
+    "text": "Please, activate my card",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "463",
+    "source_index": 717,
+    "split": "tune",
+    "text": "I don't want the transaction to go through now",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "464",
+    "source_index": 1108,
+    "split": "tune",
+    "text": "There is a payment in the App that is not mine.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "465",
+    "source_index": 1950,
+    "split": "tune",
+    "text": "I was getting cash and can't get my card back.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "466",
+    "source_index": 934,
+    "split": "tune",
+    "text": "Is it possible for me to get a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "467",
+    "source_index": 1288,
+    "split": "tune",
+    "text": "How to decide if I get a Visa or Mastercard?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "468",
+    "source_index": 992,
+    "split": "tune",
+    "text": "Does every place of business accept this card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "469",
+    "source_index": 1361,
+    "split": "tune",
+    "text": "Can I make many disposable cards per day?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "470",
+    "source_index": 137,
+    "split": "tune",
+    "text": "Why is your exchange rate for my card payment wrong",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "471",
+    "source_index": 1151,
+    "split": "tune",
+    "text": "Can I change my information?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "472",
+    "source_index": 297,
+    "split": "tune",
+    "text": "When should I expect my card?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "473",
+    "source_index": 1741,
+    "split": "tune",
+    "text": "When I submit a transfer, it is being declined.  The information I put in has been reviewed.",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "474",
+    "source_index": 2363,
+    "split": "tune",
+    "text": "Why do I have to verify the top-up that I started?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "475",
+    "source_index": 148,
+    "split": "tune",
+    "text": "I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "476",
+    "source_index": 1467,
+    "split": "tune",
+    "text": "If I have this card, which ATMs can I go to?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "477",
+    "source_index": 526,
+    "split": "tune",
+    "text": "I need help because I drunken blocked my card?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "478",
+    "source_index": 1805,
+    "split": "tune",
+    "text": "My card was declined in a shop",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "479",
+    "source_index": 926,
+    "split": "tune",
+    "text": "Can you tell me how to order a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "480",
+    "source_index": 298,
+    "split": "tune",
+    "text": "How long does it take to get my card? Can I choose when to receive it?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "481",
+    "source_index": 1177,
+    "split": "tune",
+    "text": "How come you need to know my identity?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "482",
+    "source_index": 2156,
+    "split": "tune",
+    "text": "Please tell me which cash machines will allow me to change my pin.",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "483",
+    "source_index": 1831,
+    "split": "tune",
+    "text": "They declined my card payment.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "484",
+    "source_index": 536,
+    "split": "tune",
+    "text": "How do I deal with a blocked PIN?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "485",
+    "source_index": 565,
+    "split": "tune",
+    "text": "I tried to pay contactless at the bus today and it didn't work. Any ideas why?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "486",
+    "source_index": 1070,
+    "split": "tune",
+    "text": "A cheque deposit hasn't posted to my account, when will my balance update?",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "487",
+    "source_index": 1294,
+    "split": "tune",
+    "text": "I would prefer a visa card",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "488",
+    "source_index": 2685,
+    "split": "tune",
+    "text": "How long does it take for an international transfer into my account?",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "489",
+    "source_index": 2600,
+    "split": "tune",
+    "text": "can i get a description of how to use a disposable virtual card",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "490",
+    "source_index": 1633,
+    "split": "tune",
+    "text": "I bought some things this morning but the payment shows that it is pending",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "491",
+    "source_index": 1922,
+    "split": "tune",
+    "text": "I was retrieving money and my card wouldn't remove.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "492",
+    "source_index": 1077,
+    "split": "tune",
+    "text": "Balance hasn't been updated following a cheque or cash deposit",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "493",
+    "source_index": 843,
+    "split": "tune",
+    "text": "I made a money transaction but the recipient can't see it",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "494",
+    "source_index": 1566,
+    "split": "tune",
+    "text": "I was at the ATM trying to made a withdraw and I was declined.",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "495",
+    "source_index": 2936,
+    "split": "tune",
+    "text": "It appears my card expires next month, can I order a new one?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "496",
+    "source_index": 2339,
+    "split": "tune",
+    "text": "How can I transfer money from an outside bank?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "497",
+    "source_index": 2175,
+    "split": "tune",
+    "text": "Can I transfer money to a beneficiery?",
+    "gold": "beneficiary_not_allowed"
+  },
+  {
+    "item_id": "498",
+    "source_index": 2070,
+    "split": "tune",
+    "text": "What would the approximate delivery date be if I transferred something urgently to China?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "499",
+    "source_index": 1762,
+    "split": "tune",
+    "text": "I requested a refund, and never received it. What can I do?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "500",
+    "source_index": 1472,
+    "split": "evaluate",
+    "text": "What ATMs will accept this type of card?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "501",
+    "source_index": 1988,
+    "split": "evaluate",
+    "text": "Can you explain why there is a payment showing twice?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "502",
+    "source_index": 1777,
+    "split": "evaluate",
+    "text": "Why isn't a recent refund on my statement?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "503",
+    "source_index": 764,
+    "split": "evaluate",
+    "text": "I got less cash than the one I specified in the ATM",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "504",
+    "source_index": 1451,
+    "split": "evaluate",
+    "text": "What ATMs is the card okay to use at?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "505",
+    "source_index": 280,
+    "split": "evaluate",
+    "text": "I need my card now!",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "506",
+    "source_index": 2972,
+    "split": "evaluate",
+    "text": "I received my American Express card, but I am having problems making it work with Apple pay.  Can you help me with this problem?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "507",
+    "source_index": 16,
+    "split": "evaluate",
+    "text": "I've been waiting longer than expected for my card.",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "508",
+    "source_index": 2291,
+    "split": "evaluate",
+    "text": "how come my transfer didn't work",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "509",
+    "source_index": 2812,
+    "split": "evaluate",
+    "text": "Are there any fees if I use a European bank card for a top up?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "510",
+    "source_index": 1933,
+    "split": "evaluate",
+    "text": "The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "511",
+    "source_index": 1018,
+    "split": "evaluate",
+    "text": "I topped up but the app reverted it",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "512",
+    "source_index": 3016,
+    "split": "evaluate",
+    "text": "What kind of documents do I need for the identity check?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "513",
+    "source_index": 1481,
+    "split": "evaluate",
+    "text": "There is a direct debit that's not mine.",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "514",
+    "source_index": 706,
+    "split": "evaluate",
+    "text": "The transfer I just made needs to be cancelled right now. It was my mistake. Please help me cancel it before it goes through!",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "515",
+    "source_index": 1623,
+    "split": "evaluate",
+    "text": "what does pending mean?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "516",
+    "source_index": 1323,
+    "split": "evaluate",
+    "text": "What is the process for using my credit card to transfer money?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "517",
+    "source_index": 1959,
+    "split": "evaluate",
+    "text": "What happens if my card is stuck in the ATM?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "518",
+    "source_index": 1201,
+    "split": "evaluate",
+    "text": "I do not have what is required to prove my identity",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "519",
+    "source_index": 2067,
+    "split": "evaluate",
+    "text": "I initiated a Bank transfer form Europe, how long will this take?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "520",
+    "source_index": 2745,
+    "split": "evaluate",
+    "text": "I need to cancel my card that got stolen a little while ago. Someone has already taken some money out and I don't want them to take anymore. Can you please do that?",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "521",
+    "source_index": 2983,
+    "split": "evaluate",
+    "text": "Can I use my American Express stored in Apple Pay to top up?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "522",
+    "source_index": 653,
+    "split": "evaluate",
+    "text": "Can you look into my top up please.  I made it over three hours ago and yet it's still pending.",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "523",
+    "source_index": 2798,
+    "split": "evaluate",
+    "text": "Can I exchange money from abroad without additional costs?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "524",
+    "source_index": 2525,
+    "split": "evaluate",
+    "text": "Why is my virtual card is being declined?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "525",
+    "source_index": 2888,
+    "split": "evaluate",
+    "text": "Why is there an extra charge for money that was withdrawn?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "526",
+    "source_index": 2963,
+    "split": "evaluate",
+    "text": "Can I add money with Apple Pay?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "527",
+    "source_index": 1181,
+    "split": "evaluate",
+    "text": "Why am I being asked to have an identity check",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "528",
+    "source_index": 1675,
+    "split": "evaluate",
+    "text": "I lost my phone!",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "529",
+    "source_index": 2505,
+    "split": "evaluate",
+    "text": "What are the fees to get a physical card?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "530",
+    "source_index": 529,
+    "split": "evaluate",
+    "text": "My pin was blocked, how do I make it so I can use it?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "531",
+    "source_index": 2852,
+    "split": "evaluate",
+    "text": "WHAT CAN I DO AFTER THE CARD MISSING",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "532",
+    "source_index": 488,
+    "split": "evaluate",
+    "text": "What age do I have to be?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "533",
+    "source_index": 94,
+    "split": "evaluate",
+    "text": "What is the exchange rate like on this app?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "534",
+    "source_index": 1468,
+    "split": "evaluate",
+    "text": "What ATMs can I withdraw money from?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "535",
+    "source_index": 644,
+    "split": "evaluate",
+    "text": "Is there a reason my top up hasn't gone through",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "536",
+    "source_index": 2878,
+    "split": "evaluate",
+    "text": "I got my new card. How do I activate it?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "537",
+    "source_index": 524,
+    "split": "evaluate",
+    "text": "How do I unblock my pin after entering it wrong too many times?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "538",
+    "source_index": 1534,
+    "split": "evaluate",
+    "text": "Why won't my passcode work?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "539",
+    "source_index": 694,
+    "split": "evaluate",
+    "text": "This is URGENT, I typed the wrong payment information for a payment I needed to make and have clicked send, I need to reverse the transaction immediately.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "540",
+    "source_index": 1720,
+    "split": "evaluate",
+    "text": "I tried to make a transfer and it was declined. Why?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "541",
+    "source_index": 718,
+    "split": "evaluate",
+    "text": "Can I change the amount I made on a payment that I made to the payment is correct.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "542",
+    "source_index": 950,
+    "split": "evaluate",
+    "text": "Please help me get a virtual card.",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "543",
+    "source_index": 2254,
+    "split": "evaluate",
+    "text": "Salary in GBP has been received, does it need to be configured elsewhere?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "544",
+    "source_index": 1102,
+    "split": "evaluate",
+    "text": "I'm concerned about a payment that has recently been made on my card.  I do not recognize the name that the transaction went to, can you help me?",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "545",
+    "source_index": 2551,
+    "split": "evaluate",
+    "text": "How come my disposable virtual card used to pay for a gym subscription got rejected?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "546",
+    "source_index": 1509,
+    "split": "evaluate",
+    "text": "There's a direct debit on my account that I didn't authorize",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "547",
+    "source_index": 1904,
+    "split": "evaluate",
+    "text": "Please terminate my account.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "548",
+    "source_index": 459,
+    "split": "evaluate",
+    "text": "I need help with a lost card",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "549",
+    "source_index": 2603,
+    "split": "evaluate",
+    "text": "I would like to order a disposable virtual card. How can I do this?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "550",
+    "source_index": 373,
+    "split": "evaluate",
+    "text": "Can a card stop working?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "551",
+    "source_index": 334,
+    "split": "evaluate",
+    "text": "Are there limits on auto top-up?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "552",
+    "source_index": 2450,
+    "split": "evaluate",
+    "text": "Where do I locate topping up with cash.",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "553",
+    "source_index": 1593,
+    "split": "evaluate",
+    "text": "I couldn't get cash at the atm",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "554",
+    "source_index": 2691,
+    "split": "evaluate",
+    "text": "How long does a UK transfer take?",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "555",
+    "source_index": 275,
+    "split": "evaluate",
+    "text": "Besides USD what other currencies can I have?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "556",
+    "source_index": 2530,
+    "split": "evaluate",
+    "text": "I cannot use my disposable virtual card.",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "557",
+    "source_index": 1574,
+    "split": "evaluate",
+    "text": "The ATM is declining my card. I tried at two different ATMs. Can you tell me if there's anything wrong with my account?",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "558",
+    "source_index": 456,
+    "split": "evaluate",
+    "text": "Can you freeze my card it was stolen",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "559",
+    "source_index": 2646,
+    "split": "evaluate",
+    "text": "My top-up isn't working.",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "560",
+    "source_index": 1068,
+    "split": "evaluate",
+    "text": "What happened to the cash that I tried to deposit into my account? It's gone!",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "561",
+    "source_index": 3049,
+    "split": "evaluate",
+    "text": "Can I get one of your cards in the EU",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "562",
+    "source_index": 2158,
+    "split": "evaluate",
+    "text": "How to change the PIN on my card?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "563",
+    "source_index": 336,
+    "split": "evaluate",
+    "text": "Do you have any limit on the auto top-up?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "564",
+    "source_index": 1116,
+    "split": "evaluate",
+    "text": "I think there has been a purchase made that wasn't by me.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "565",
+    "source_index": 628,
+    "split": "evaluate",
+    "text": "Will I be charged for a SEPA transfer?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "566",
+    "source_index": 2744,
+    "split": "evaluate",
+    "text": "There is a odd withdrawal on my account.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "567",
+    "source_index": 2558,
+    "split": "evaluate",
+    "text": "How do I make my virtual card work?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "568",
+    "source_index": 1667,
+    "split": "evaluate",
+    "text": "I was mugged yesterday and they took everything.  I can't access my app.  What are my next steps?",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "569",
+    "source_index": 2072,
+    "split": "evaluate",
+    "text": "How long to I have to wait for a transfer to reach my account?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "570",
+    "source_index": 2225,
+    "split": "evaluate",
+    "text": "There was an extra charge when I made a transfer.",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "571",
+    "source_index": 2656,
+    "split": "evaluate",
+    "text": "Why was my top-up unsuccessful?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "572",
+    "source_index": 700,
+    "split": "evaluate",
+    "text": "I transferred the wrong amount and would like to cancel the transaction.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "573",
+    "source_index": 2042,
+    "split": "evaluate",
+    "text": "I need a fast transfer from China?  How fast will it be?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "574",
+    "source_index": 1936,
+    "split": "evaluate",
+    "text": "The ATM won't give me my card back.",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "575",
+    "source_index": 2380,
+    "split": "evaluate",
+    "text": "Why is it important to verify a top-up card?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "576",
+    "source_index": 2577,
+    "split": "evaluate",
+    "text": "I checked the exchange rate when I withdrew cash. But the actual rate that you applied was different.",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "577",
+    "source_index": 1059,
+    "split": "evaluate",
+    "text": "I Submitted a cheque couple days ago, nothing happened to my account yet.Would you please check What could be the possible issue?",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "578",
+    "source_index": 103,
+    "split": "evaluate",
+    "text": "What do you base your exchange rates on?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "579",
+    "source_index": 2800,
+    "split": "evaluate",
+    "text": "Is there a fee for using a European bank card to top up?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "580",
+    "source_index": 2879,
+    "split": "evaluate",
+    "text": "What do I need to do to activate my card?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "581",
+    "source_index": 722,
+    "split": "evaluate",
+    "text": "Is there a top up limit for my account?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "582",
+    "source_index": 378,
+    "split": "evaluate",
+    "text": "My card doesn't work.",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "583",
+    "source_index": 631,
+    "split": "evaluate",
+    "text": "Is there a fee for transfer top-up?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "584",
+    "source_index": 732,
+    "split": "evaluate",
+    "text": "Is there a limit to top-up amounts?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "585",
+    "source_index": 1998,
+    "split": "evaluate",
+    "text": "I made a payment that got charged twice instead of once.",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "586",
+    "source_index": 445,
+    "split": "evaluate",
+    "text": "I lost my card",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "587",
+    "source_index": 622,
+    "split": "evaluate",
+    "text": "How much am I charged for a SEPA transfer?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "588",
+    "source_index": 944,
+    "split": "evaluate",
+    "text": "Can you help me sign up for a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "589",
+    "source_index": 141,
+    "split": "evaluate",
+    "text": "When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "590",
+    "source_index": 2632,
+    "split": "evaluate",
+    "text": "Where can I get a disposable virtual card?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "591",
+    "source_index": 1023,
+    "split": "evaluate",
+    "text": "When I topped up, the app reverted my funds.",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "592",
+    "source_index": 1120,
+    "split": "evaluate",
+    "text": "I no longer live at my address on file, how do I change it?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "593",
+    "source_index": 1491,
+    "split": "evaluate",
+    "text": "Weird charges are appearing in my debit account.",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "594",
+    "source_index": 887,
+    "split": "evaluate",
+    "text": "If I only have 1 other US card, can you take it?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "595",
+    "source_index": 869,
+    "split": "evaluate",
+    "text": "How long will it take for my transaction to be completed?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "596",
+    "source_index": 2674,
+    "split": "evaluate",
+    "text": "Problems with top up",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "597",
+    "source_index": 3064,
+    "split": "evaluate",
+    "text": "What locations are you in?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "598",
+    "source_index": 2215,
+    "split": "evaluate",
+    "text": "Why did I get charged for something I bought online? Even though it was international, I thought it would be covered.",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "599",
+    "source_index": 597,
+    "split": "evaluate",
+    "text": "Do I need to make a regular payment before a contactless one?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "600",
+    "source_index": 495,
+    "split": "evaluate",
+    "text": "How do I open up an account for my child?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "601",
+    "source_index": 1075,
+    "split": "evaluate",
+    "text": "How come my cash deposit is not showing up. This can't be right. There must be some mistake. Where did my cash go. You better not have lost it as I need this money asap.",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "602",
+    "source_index": 460,
+    "split": "evaluate",
+    "text": "I think my card was stolen.",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "603",
+    "source_index": 1506,
+    "split": "evaluate",
+    "text": "I don't think I made this charge on my debit statement.",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "604",
+    "source_index": 2957,
+    "split": "evaluate",
+    "text": "If my card is about to expire, do I need to order a new one?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "605",
+    "source_index": 105,
+    "split": "evaluate",
+    "text": "How much will I get with the exchange rate?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "606",
+    "source_index": 1359,
+    "split": "evaluate",
+    "text": "Are my friends able to top up my account?",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "607",
+    "source_index": 2098,
+    "split": "evaluate",
+    "text": "I have a payment listed as cancelled.",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "608",
+    "source_index": 530,
+    "split": "evaluate",
+    "text": "How many tries do I have to enter my pin before I'm blocked?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "609",
+    "source_index": 2898,
+    "split": "evaluate",
+    "text": "Is there a fee for withdrawing cash?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "610",
+    "source_index": 1968,
+    "split": "evaluate",
+    "text": "Why would I be charged more than once for the same transaction?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "611",
+    "source_index": 1200,
+    "split": "evaluate",
+    "text": "I cannot verify my identity",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "612",
+    "source_index": 1379,
+    "split": "evaluate",
+    "text": "I have to have several disposable cards per day.",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "613",
+    "source_index": 1154,
+    "split": "evaluate",
+    "text": "I want to change my name.",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "614",
+    "source_index": 816,
+    "split": "evaluate",
+    "text": "I made a card payment and a fee is showing up?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "615",
+    "source_index": 2292,
+    "split": "evaluate",
+    "text": "I transferred my funds, why did it not go through?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "616",
+    "source_index": 920,
+    "split": "evaluate",
+    "text": "Where can I obtain my virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "617",
+    "source_index": 2278,
+    "split": "evaluate",
+    "text": "Can I get paid in another currency?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "618",
+    "source_index": 1803,
+    "split": "evaluate",
+    "text": "I was trying to purchase something at the store today and my card has been declined.  Why has this happened?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "619",
+    "source_index": 1279,
+    "split": "evaluate",
+    "text": "where can user find pin?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "620",
+    "source_index": 914,
+    "split": "evaluate",
+    "text": "Is my currency okay to add money with?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "621",
+    "source_index": 1085,
+    "split": "evaluate",
+    "text": "I did not make this card payment.",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "622",
+    "source_index": 979,
+    "split": "evaluate",
+    "text": "I am traveling to Germany, Will I be able to use my card there?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "623",
+    "source_index": 1608,
+    "split": "evaluate",
+    "text": "What does it mean by pending payment?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "624",
+    "source_index": 1374,
+    "split": "evaluate",
+    "text": "Are you able to explain the restrictions of the disposable cards?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "625",
+    "source_index": 1649,
+    "split": "evaluate",
+    "text": "My phone was stolen, what do I do?",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "626",
+    "source_index": 1789,
+    "split": "evaluate",
+    "text": "Why can't I see a recent refund in my statement?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "627",
+    "source_index": 2119,
+    "split": "evaluate",
+    "text": "Why has payment been returned?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "628",
+    "source_index": 1687,
+    "split": "evaluate",
+    "text": "I want to return an item.",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "629",
+    "source_index": 2288,
+    "split": "evaluate",
+    "text": "Why did my transfer not go through?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "630",
+    "source_index": 760,
+    "split": "evaluate",
+    "text": "I don't know if this is an issue with the ATM or my account, but I just tried withdrawing 30 pounds from the ATM I'm at now and it only gave me 10. Is this a glitch or what exactly is going on?",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "631",
+    "source_index": 1424,
+    "split": "evaluate",
+    "text": "The transactions showing up are strange, I think my card was used without me knowing.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "632",
+    "source_index": 344,
+    "split": "evaluate",
+    "text": "Do you have an auto top-up option?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "633",
+    "source_index": 1791,
+    "split": "evaluate",
+    "text": "Where is my refund? I have been checking my account all day.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "634",
+    "source_index": 1897,
+    "split": "evaluate",
+    "text": "The service of this company sucks, I need to terminate my account.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "635",
+    "source_index": 2034,
+    "split": "evaluate",
+    "text": "Where do my funds come from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "636",
+    "source_index": 1512,
+    "split": "evaluate",
+    "text": "I am concerned about the security in my account and would like to make a dispute.",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "637",
+    "source_index": 517,
+    "split": "evaluate",
+    "text": "How young can someone be in order to open an account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "638",
+    "source_index": 194,
+    "split": "evaluate",
+    "text": "$1 extra has been charged on my statement, why is that?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "639",
+    "source_index": 39,
+    "split": "evaluate",
+    "text": "Where is the tracking number for the card you sent me?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "640",
+    "source_index": 2929,
+    "split": "evaluate",
+    "text": "How much does it cost to get a new card?  Mine is almost expired.  How fast does it come?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "641",
+    "source_index": 1639,
+    "split": "evaluate",
+    "text": "I have a pending payment from stuff I bought this morning.",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "642",
+    "source_index": 2682,
+    "split": "evaluate",
+    "text": "How long will it take for my transferred money to show up?",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "643",
+    "source_index": 273,
+    "split": "evaluate",
+    "text": "Can I hold money in multiple currencies?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "644",
+    "source_index": 1997,
+    "split": "evaluate",
+    "text": "I have a duplicate payment showing",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "645",
+    "source_index": 2373,
+    "split": "evaluate",
+    "text": "Is it normal to have to verify my top-up or is something wrong?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "646",
+    "source_index": 1171,
+    "split": "evaluate",
+    "text": "Can I still use my account, even though the identity verification has not passed yet?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "647",
+    "source_index": 1409,
+    "split": "evaluate",
+    "text": "Someone else may be using my card.  There are transactions I don't recognize.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "648",
+    "source_index": 959,
+    "split": "evaluate",
+    "text": "Can I have one of the virtual cards?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "649",
+    "source_index": 1277,
+    "split": "evaluate",
+    "text": "Where is the card PIN?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "650",
+    "source_index": 2626,
+    "split": "evaluate",
+    "text": "Is it possible to also get a disposable virtual card?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "651",
+    "source_index": 1846,
+    "split": "evaluate",
+    "text": "I have a transfer that's pending and wanted to know how long it is going to take to process?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "652",
+    "source_index": 690,
+    "split": "evaluate",
+    "text": "Is there any way to cancel a transfer?",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "653",
+    "source_index": 630,
+    "split": "evaluate",
+    "text": "Please tell me about SWIFT transfers at this bank.",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "654",
+    "source_index": 2200,
+    "split": "evaluate",
+    "text": "When I made a transfer, there was a fee.  Why?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "655",
+    "source_index": 296,
+    "split": "evaluate",
+    "text": "I need it delivered on a certain date.",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "656",
+    "source_index": 468,
+    "split": "evaluate",
+    "text": "My card got lost.",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "657",
+    "source_index": 707,
+    "split": "evaluate",
+    "text": "I want to go back on what I did this morning",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "658",
+    "source_index": 1598,
+    "split": "evaluate",
+    "text": "The cash I tried to draw from the ATM was not approved.",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "659",
+    "source_index": 1007,
+    "split": "evaluate",
+    "text": "I topped up my account and even though it was confirmed at first, the money isn't there anymore! why did this happen, and where did my money go?",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "660",
+    "source_index": 1928,
+    "split": "evaluate",
+    "text": "The ATM didn't give me the card back!",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "661",
+    "source_index": 2068,
+    "split": "evaluate",
+    "text": "How long does it take to process transfers from Europe?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "662",
+    "source_index": 1867,
+    "split": "evaluate",
+    "text": "Someone transferred money to me and it doesn't show",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "663",
+    "source_index": 1937,
+    "split": "evaluate",
+    "text": "My card was confiscated by an ATM. How do I get my card back?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "664",
+    "source_index": 2388,
+    "split": "evaluate",
+    "text": "What is the importance of verifying the top-up?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "665",
+    "source_index": 2787,
+    "split": "evaluate",
+    "text": "When I travel, what will it cost to switch for my currency?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "666",
+    "source_index": 2052,
+    "split": "evaluate",
+    "text": "When should I expect to see my transfer hit my account?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "667",
+    "source_index": 2368,
+    "split": "evaluate",
+    "text": "reason i need to verify top up",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "668",
+    "source_index": 283,
+    "split": "evaluate",
+    "text": "How long will it take to get to me?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "669",
+    "source_index": 582,
+    "split": "evaluate",
+    "text": "When I tried to pay for my bus ride, the contactless payment wouldn't work. How can I prevent this in the future?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "670",
+    "source_index": 2701,
+    "split": "evaluate",
+    "text": "I transferred some money but it is yet to arrive.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "671",
+    "source_index": 182,
+    "split": "evaluate",
+    "text": "I have a 1 euro fee on my statement.",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "672",
+    "source_index": 2752,
+    "split": "evaluate",
+    "text": "There is a cash withdrawal transaction that I am unsure of.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "673",
+    "source_index": 3061,
+    "split": "evaluate",
+    "text": "I would like to receive and use the card in Europe, is that possible?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "674",
+    "source_index": 381,
+    "split": "evaluate",
+    "text": "Is my card broken?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "675",
+    "source_index": 1793,
+    "split": "evaluate",
+    "text": "My refund is missing",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "676",
+    "source_index": 2136,
+    "split": "evaluate",
+    "text": "How can I change my Tholepin ?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "677",
+    "source_index": 1609,
+    "split": "evaluate",
+    "text": "When will my card payment be done pending?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "678",
+    "source_index": 1823,
+    "split": "evaluate",
+    "text": "My card was not accepted.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "679",
+    "source_index": 954,
+    "split": "evaluate",
+    "text": "I would like a virtual card- where can I purchase one?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "680",
+    "source_index": 223,
+    "split": "evaluate",
+    "text": "Is my cash withdrawal pending?",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "681",
+    "source_index": 1621,
+    "split": "evaluate",
+    "text": "I made a purchase and it says it's pending. What does that mean?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "682",
+    "source_index": 2514,
+    "split": "evaluate",
+    "text": "If I want a physical card, do I have to pay anything?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "683",
+    "source_index": 2690,
+    "split": "evaluate",
+    "text": "I transferred some money but I think it has gotten lost somewhere.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "684",
+    "source_index": 889,
+    "split": "evaluate",
+    "text": "can you tell me what cards and currencies you take?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "685",
+    "source_index": 560,
+    "split": "evaluate",
+    "text": "Are contactless payments enabled on my new card?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "686",
+    "source_index": 850,
+    "split": "evaluate",
+    "text": "I transferred some money and it didint arrive",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "687",
+    "source_index": 2425,
+    "split": "evaluate",
+    "text": "Can i have a second physical card for this account?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "688",
+    "source_index": 2677,
+    "split": "evaluate",
+    "text": "I'm pretty sure my top up failed. How do I fix this?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "689",
+    "source_index": 1470,
+    "split": "evaluate",
+    "text": "Where can I withdrawal my money?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "690",
+    "source_index": 2384,
+    "split": "evaluate",
+    "text": "How do I go forth verifying my top-up card?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "691",
+    "source_index": 3009,
+    "split": "evaluate",
+    "text": "Are there any documents needed for the identity check?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "692",
+    "source_index": 1275,
+    "split": "evaluate",
+    "text": "What do I need to do for a PIN?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "693",
+    "source_index": 1178,
+    "split": "evaluate",
+    "text": "May I use my account now, even though the identity verification has not gone through yet?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "694",
+    "source_index": 2259,
+    "split": "evaluate",
+    "text": "How can my friend send me money?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "695",
+    "source_index": 1290,
+    "split": "evaluate",
+    "text": "What steps must I follow to get a Visa credit card?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "696",
+    "source_index": 261,
+    "split": "evaluate",
+    "text": "Do you happen to do exchanges of EUR?",
+    "gold": "fiat_currency_support"
+  },
+  {
+    "item_id": "697",
+    "source_index": 873,
+    "split": "evaluate",
+    "text": "When will my funds transfer?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "698",
+    "source_index": 2353,
+    "split": "evaluate",
+    "text": "I want to use bank transfer for topping up my account. How is it handled?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "699",
+    "source_index": 1905,
+    "split": "evaluate",
+    "text": "I am sick of this damn company and want to close out my account.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "700",
+    "source_index": 2404,
+    "split": "evaluate",
+    "text": "Is there a fee for extra cards?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "701",
+    "source_index": 2230,
+    "split": "evaluate",
+    "text": "Is there supposed to be a fee for the transfer I made?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "702",
+    "source_index": 952,
+    "split": "evaluate",
+    "text": "Where can I go to get a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "703",
+    "source_index": 2559,
+    "split": "evaluate",
+    "text": "virtual card is not working for me",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "704",
+    "source_index": 1268,
+    "split": "evaluate",
+    "text": "I cannot locate the card PIN.",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "705",
+    "source_index": 2036,
+    "split": "evaluate",
+    "text": "How can I see my source of funds?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "706",
+    "source_index": 1402,
+    "split": "evaluate",
+    "text": "Someone I don't know has used my card without permission.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "707",
+    "source_index": 629,
+    "split": "evaluate",
+    "text": "is there a fee for a transfer? if so how much will it be?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "708",
+    "source_index": 2581,
+    "split": "evaluate",
+    "text": "I feel like too much money was taken during my currency exchange.",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "709",
+    "source_index": 2828,
+    "split": "evaluate",
+    "text": "I need to use a European card for a top up, what will the charge be?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "710",
+    "source_index": 740,
+    "split": "evaluate",
+    "text": "Can you tell me the limits for top ups?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "711",
+    "source_index": 830,
+    "split": "evaluate",
+    "text": "Is using my card free?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "712",
+    "source_index": 2976,
+    "split": "evaluate",
+    "text": "If I want to top up, can I use Apple Pay?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "713",
+    "source_index": 2515,
+    "split": "evaluate",
+    "text": "Where can cards be delivered?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "714",
+    "source_index": 3044,
+    "split": "evaluate",
+    "text": "i live in the US can i still get a card?",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "715",
+    "source_index": 2378,
+    "split": "evaluate",
+    "text": "Where's the verification code for the top-up card?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "716",
+    "source_index": 1702,
+    "split": "evaluate",
+    "text": "How do I cancel a previous purchase",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "717",
+    "source_index": 1425,
+    "split": "evaluate",
+    "text": "How do I freeze my account?",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "718",
+    "source_index": 1668,
+    "split": "evaluate",
+    "text": "I got mugged yesterday and lost access to the app. I need to regain it.",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "719",
+    "source_index": 2872,
+    "split": "evaluate",
+    "text": "How do I use my new card?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "720",
+    "source_index": 436,
+    "split": "evaluate",
+    "text": "How do I exchange currency?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "721",
+    "source_index": 35,
+    "split": "evaluate",
+    "text": "I ordered a card and I still haven't received it. It's been two weeks. What can I do?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "722",
+    "source_index": 1088,
+    "split": "evaluate",
+    "text": "there is a transaction on my account that i didnt make",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "723",
+    "source_index": 1518,
+    "split": "evaluate",
+    "text": "There's a direct debit I wish to dispute",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "724",
+    "source_index": 1310,
+    "split": "evaluate",
+    "text": "I like Mastercard better.",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "725",
+    "source_index": 82,
+    "split": "evaluate",
+    "text": "How did you come up with your exchange rates?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "726",
+    "source_index": 292,
+    "split": "evaluate",
+    "text": "Can I have my card delivered on a specific day?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "727",
+    "source_index": 985,
+    "split": "evaluate",
+    "text": "Can I use my card everywhere?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "728",
+    "source_index": 2239,
+    "split": "evaluate",
+    "text": "Can you explain the transfer fee to me?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "729",
+    "source_index": 798,
+    "split": "evaluate",
+    "text": "did not receive correct cash upon withdrawal",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "730",
+    "source_index": 2860,
+    "split": "evaluate",
+    "text": "I have a new card and I want to activate it",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "731",
+    "source_index": 1915,
+    "split": "evaluate",
+    "text": "I don't find your services useful anymore, how do I delete my account?",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "732",
+    "source_index": 1208,
+    "split": "evaluate",
+    "text": "app does not recognize me",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "733",
+    "source_index": 1324,
+    "split": "evaluate",
+    "text": "How do I top up my card using your app? I'm new to this.",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "734",
+    "source_index": 2429,
+    "split": "evaluate",
+    "text": "Can i have a card to my daughter?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "735",
+    "source_index": 748,
+    "split": "evaluate",
+    "text": "What is the limit to top-up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "736",
+    "source_index": 2905,
+    "split": "evaluate",
+    "text": "While I was checking out in the grocery store, I realized I needed cash so I requested some.  However, I noticed there was a fee for this transaction.  Why did I get charged a fee?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "737",
+    "source_index": 307,
+    "split": "evaluate",
+    "text": "How long does shipping take to get to a US destination?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "738",
+    "source_index": 1985,
+    "split": "evaluate",
+    "text": "A transaction is repeated several times on my account.",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "739",
+    "source_index": 1783,
+    "split": "evaluate",
+    "text": "My statement doesn't show that a refund has processed",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "740",
+    "source_index": 2687,
+    "split": "evaluate",
+    "text": "When will my transfer be available in my account.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "741",
+    "source_index": 1553,
+    "split": "evaluate",
+    "text": "What should I do if I forgot my passcode?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "742",
+    "source_index": 708,
+    "split": "evaluate",
+    "text": "Can a transaction be cancelled?",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "743",
+    "source_index": 1961,
+    "split": "evaluate",
+    "text": "I've just come back from an eating holiday in the USA and Canada and have SO many pending and duplicated transactions on my account.  I think there is something wrong, can you look in to it please?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "744",
+    "source_index": 1302,
+    "split": "evaluate",
+    "text": "How do I select a Mastercard instead of a Visa?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "745",
+    "source_index": 1749,
+    "split": "evaluate",
+    "text": "For what reason was my transfer declined?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "746",
+    "source_index": 2403,
+    "split": "evaluate",
+    "text": "How can I get additional cards?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "747",
+    "source_index": 1726,
+    "split": "evaluate",
+    "text": "How can I fix my card, it got declined twice.",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "748",
+    "source_index": 1657,
+    "split": "evaluate",
+    "text": "my phone was taken! can you place cancel my account so no one uses it",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "749",
+    "source_index": 1545,
+    "split": "evaluate",
+    "text": "I forgot my password",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "750",
+    "source_index": 579,
+    "split": "evaluate",
+    "text": "Can you help my fix my contactless?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "751",
+    "source_index": 2076,
+    "split": "evaluate",
+    "text": "If my transfer is from Europe how long will it take?",
+    "gold": "transfer_timing"
+  },
+  {
+    "item_id": "752",
+    "source_index": 584,
+    "split": "evaluate",
+    "text": "I wanted to use my card contactless but it doesn't seem to be working, what could be the problem?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "753",
+    "source_index": 2652,
+    "split": "evaluate",
+    "text": "My top up failed.",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "754",
+    "source_index": 880,
+    "split": "evaluate",
+    "text": "To add money to my account, what currencies can I use?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "755",
+    "source_index": 1750,
+    "split": "evaluate",
+    "text": "My transfer has been declined and I know it should have went through.",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "756",
+    "source_index": 752,
+    "split": "evaluate",
+    "text": "Is there a limit to how high I can top-up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "757",
+    "source_index": 2875,
+    "split": "evaluate",
+    "text": "I would like to activate my card to use now, can you help me?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "758",
+    "source_index": 2697,
+    "split": "evaluate",
+    "text": "I had cash transferred but the balance did not change.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "759",
+    "source_index": 1958,
+    "split": "evaluate",
+    "text": "WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "760",
+    "source_index": 1829,
+    "split": "evaluate",
+    "text": "Do you know why my card payment is declined?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "761",
+    "source_index": 2895,
+    "split": "evaluate",
+    "text": "I got a fee for an ATM withdrawal.",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "762",
+    "source_index": 829,
+    "split": "evaluate",
+    "text": "Someone needs to make me aware when there are extra charges for payments. I happened to be looking at the app earlier and noticed a charge associated to a payment that was extra that no one made me aware of before at all.",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "763",
+    "source_index": 2585,
+    "split": "evaluate",
+    "text": "why is the exchange rate for a Foreign ATM different",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "764",
+    "source_index": 218,
+    "split": "evaluate",
+    "text": "Hi,I tried to get some money out but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "765",
+    "source_index": 1771,
+    "split": "evaluate",
+    "text": "Why is my refund missing from my  statement?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "766",
+    "source_index": 388,
+    "split": "evaluate",
+    "text": "Need help with my card. It's not working.",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "767",
+    "source_index": 2660,
+    "split": "evaluate",
+    "text": "The app denied my top-up",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "768",
+    "source_index": 1041,
+    "split": "evaluate",
+    "text": "How come I don't see my deposit in my account yet?",
+    "gold": "balance_not_updated_after_cheque_or_cash_deposit"
+  },
+  {
+    "item_id": "769",
+    "source_index": 1738,
+    "split": "evaluate",
+    "text": "Why could my transfer have been declined?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "770",
+    "source_index": 1801,
+    "split": "evaluate",
+    "text": "The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "771",
+    "source_index": 1527,
+    "split": "evaluate",
+    "text": "Something is wrong with my passcode",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "772",
+    "source_index": 2359,
+    "split": "evaluate",
+    "text": "Can I use a bank transfer to refill my account?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "773",
+    "source_index": 30,
+    "split": "evaluate",
+    "text": "My card hasn't arrived yet.",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "774",
+    "source_index": 2111,
+    "split": "evaluate",
+    "text": "Why was my card payment reverted?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "775",
+    "source_index": 118,
+    "split": "evaluate",
+    "text": "when does the rate get determined",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "776",
+    "source_index": 2243,
+    "split": "evaluate",
+    "text": "Can I get my salary through this?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "777",
+    "source_index": 1587,
+    "split": "evaluate",
+    "text": "why couldn't I get cash in the ATM?",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "778",
+    "source_index": 2331,
+    "split": "evaluate",
+    "text": "I would like to transfer some money from my other bank account into this one.",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "779",
+    "source_index": 2409,
+    "split": "evaluate",
+    "text": "I'd like to have another card",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "780",
+    "source_index": 1148,
+    "split": "evaluate",
+    "text": "I need to change my name since I got married",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "781",
+    "source_index": 2144,
+    "split": "evaluate",
+    "text": "How do I change my PIN?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "782",
+    "source_index": 2415,
+    "split": "evaluate",
+    "text": "What is the procedure for getting another card?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "783",
+    "source_index": 894,
+    "split": "evaluate",
+    "text": "I would like to add money to my account through my American Express.",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "784",
+    "source_index": 3035,
+    "split": "evaluate",
+    "text": "Is there any way to verify who I am?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "785",
+    "source_index": 1714,
+    "split": "evaluate",
+    "text": "I would like to cancel a payment. I purchased something several days ago and i still have not received it.",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "786",
+    "source_index": 1437,
+    "split": "evaluate",
+    "text": "What should I do if I think someone is using my card.",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "787",
+    "source_index": 2846,
+    "split": "evaluate",
+    "text": "What's the right way to activate my card?",
+    "gold": "activate_my_card"
+  },
+  {
+    "item_id": "788",
+    "source_index": 915,
+    "split": "evaluate",
+    "text": "What cards and currencies will suffice?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "789",
+    "source_index": 417,
+    "split": "evaluate",
+    "text": "If I receive foreign currencies, am I able to exchange them on the app?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "790",
+    "source_index": 2444,
+    "split": "evaluate",
+    "text": "Can you help me find top up by cash deposit?",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "791",
+    "source_index": 1376,
+    "split": "evaluate",
+    "text": "What is the limit to number of transactions I can do with a disposable card?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "792",
+    "source_index": 818,
+    "split": "evaluate",
+    "text": "What is the fee on my card payment?",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "793",
+    "source_index": 2961,
+    "split": "evaluate",
+    "text": "Can I use the system Google Pay for top-ups?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "794",
+    "source_index": 3022,
+    "split": "evaluate",
+    "text": "What steps do I take to verify my identity?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "795",
+    "source_index": 984,
+    "split": "evaluate",
+    "text": "Is it acceptable to use my card anywhere?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "796",
+    "source_index": 2606,
+    "split": "evaluate",
+    "text": "I would like a temporary virtual card",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "797",
+    "source_index": 863,
+    "split": "evaluate",
+    "text": "I transferred some money but the receiver can't pick it up for some reason.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "798",
+    "source_index": 723,
+    "split": "evaluate",
+    "text": "What is the limit to top up?",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "799",
+    "source_index": 1132,
+    "split": "evaluate",
+    "text": "How do I change my information?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "800",
+    "source_index": 2557,
+    "split": "evaluate",
+    "text": "I was trying to use my virtual card at a merchant and it was rejected. How can I fix this?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "801",
+    "source_index": 1130,
+    "split": "evaluate",
+    "text": "Where can I change my personal information after I move?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "802",
+    "source_index": 1652,
+    "split": "evaluate",
+    "text": "My phone was stolen so I no longer have access to the app.",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "803",
+    "source_index": 2827,
+    "split": "evaluate",
+    "text": "When using a US card, what is the cost for a top up/off?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "804",
+    "source_index": 184,
+    "split": "evaluate",
+    "text": "Something went wrong, I was charged an extra pound?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "805",
+    "source_index": 871,
+    "split": "evaluate",
+    "text": "I sent my friend some money a few hours ago but she has not received it yet. She really needs it. How long does this take?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "806",
+    "source_index": 2953,
+    "split": "evaluate",
+    "text": "My card is about to expire.",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "807",
+    "source_index": 1118,
+    "split": "evaluate",
+    "text": "What is the payment in my account that I did not do?",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "808",
+    "source_index": 807,
+    "split": "evaluate",
+    "text": "There is an unauthorized fee.",
+    "gold": "card_payment_fee_charged"
+  },
+  {
+    "item_id": "809",
+    "source_index": 2531,
+    "split": "evaluate",
+    "text": "Can I make multiple online transactions with my virtual card?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "810",
+    "source_index": 980,
+    "split": "evaluate",
+    "text": "What stores will take my credit card as payment?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "811",
+    "source_index": 2739,
+    "split": "evaluate",
+    "text": "It looks like someone else withdrew cash from my account, can you help?",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "812",
+    "source_index": 83,
+    "split": "evaluate",
+    "text": "Where do you guys acquire your exchange rate?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "813",
+    "source_index": 2834,
+    "split": "evaluate",
+    "text": "Is their a fee for top ups?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "814",
+    "source_index": 1307,
+    "split": "evaluate",
+    "text": "I'd like more information about choosing a Visa or Mastercard.",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "815",
+    "source_index": 2283,
+    "split": "evaluate",
+    "text": "Fix your system. I can't make transfers, I've tried like 5 times already.",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "816",
+    "source_index": 1645,
+    "split": "evaluate",
+    "text": "I can't find my phone.",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "817",
+    "source_index": 153,
+    "split": "evaluate",
+    "text": "The incorrect rate was used in my foreign purchase",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "818",
+    "source_index": 1262,
+    "split": "evaluate",
+    "text": "Why isn't my PIN available yet?",
+    "gold": "get_physical_card"
+  },
+  {
+    "item_id": "819",
+    "source_index": 891,
+    "split": "evaluate",
+    "text": "Will you accept my other card from the U.S.?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "820",
+    "source_index": 2785,
+    "split": "evaluate",
+    "text": "how much you charge for exhcange",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "821",
+    "source_index": 354,
+    "split": "evaluate",
+    "text": "Can you explain where I can find the auto-top option?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "822",
+    "source_index": 2437,
+    "split": "evaluate",
+    "text": "My daughter needs a card. Can I give her one of mine that's linked to my account?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "823",
+    "source_index": 122,
+    "split": "evaluate",
+    "text": "the card payment exchange rate is wrong",
+    "gold": "card_payment_wrong_exchange_rate"
+  },
+  {
+    "item_id": "824",
+    "source_index": 1221,
+    "split": "evaluate",
+    "text": "The app doesn't recognize me.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "825",
+    "source_index": 285,
+    "split": "evaluate",
+    "text": "Can you get me my card fast?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "826",
+    "source_index": 1318,
+    "split": "evaluate",
+    "text": "Do you use Mastercard or Visa?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "827",
+    "source_index": 550,
+    "split": "evaluate",
+    "text": "My PIN is blocked, what do I do?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "828",
+    "source_index": 2279,
+    "split": "evaluate",
+    "text": "Can I get my paycheck through here?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "829",
+    "source_index": 514,
+    "split": "evaluate",
+    "text": "What age do my kids need to be to use your service?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "830",
+    "source_index": 1137,
+    "split": "evaluate",
+    "text": "My address has changed. How do I report it?",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "831",
+    "source_index": 1082,
+    "split": "evaluate",
+    "text": "I saw a payment i did not do",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "832",
+    "source_index": 543,
+    "split": "evaluate",
+    "text": "Why did I get blocked?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "833",
+    "source_index": 2763,
+    "split": "evaluate",
+    "text": "Where do I find the exchange rate?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "834",
+    "source_index": 2109,
+    "split": "evaluate",
+    "text": "What is the reason that my card payment was cancelled?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "835",
+    "source_index": 1981,
+    "split": "evaluate",
+    "text": "Why am I being charged twice?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "836",
+    "source_index": 2030,
+    "split": "evaluate",
+    "text": "How can I see where my money comes from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "837",
+    "source_index": 2723,
+    "split": "evaluate",
+    "text": "I didn't get cash from an ATM, but the app says I did",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "838",
+    "source_index": 10,
+    "split": "evaluate",
+    "text": "How do I track my card?",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "839",
+    "source_index": 1521,
+    "split": "evaluate",
+    "text": "I can't find my password",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "840",
+    "source_index": 114,
+    "split": "evaluate",
+    "text": "Can you tell me the foreign exchange rate?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "841",
+    "source_index": 3054,
+    "split": "evaluate",
+    "text": "Please help me get a new card, I reside in the United States.",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "842",
+    "source_index": 1081,
+    "split": "evaluate",
+    "text": "There is a charge on my card that I did not make",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "843",
+    "source_index": 618,
+    "split": "evaluate",
+    "text": "What are the fees for top-ups?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "844",
+    "source_index": 2258,
+    "split": "evaluate",
+    "text": "What do I need to do to transfer my paycheck to my account?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "845",
+    "source_index": 693,
+    "split": "evaluate",
+    "text": "Help me cancel my transaction",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "846",
+    "source_index": 931,
+    "split": "evaluate",
+    "text": "Why did I not get a virtual card yet?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "847",
+    "source_index": 1921,
+    "split": "evaluate",
+    "text": "How do I retrieve my card from the machine?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "848",
+    "source_index": 1369,
+    "split": "evaluate",
+    "text": "What is the amount of disposable cards I can have each day?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "849",
+    "source_index": 610,
+    "split": "evaluate",
+    "text": "Do I have to pay any fees in order to receive money?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "850",
+    "source_index": 2005,
+    "split": "evaluate",
+    "text": "What is the source of my funds.",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "851",
+    "source_index": 1365,
+    "split": "evaluate",
+    "text": "what is the disposable cards limit?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "852",
+    "source_index": 1732,
+    "split": "evaluate",
+    "text": "Why did I get a transfer declined?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "853",
+    "source_index": 2399,
+    "split": "evaluate",
+    "text": "What is the necessity of verifying the top up?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "854",
+    "source_index": 1529,
+    "split": "evaluate",
+    "text": "I can't recall my passcode and need to reset it.",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "855",
+    "source_index": 1677,
+    "split": "evaluate",
+    "text": "How do I use the app if I don't have my phone with me?",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "856",
+    "source_index": 1333,
+    "split": "evaluate",
+    "text": "I am missing some funds from my account - I tried to transfer them using my credit card number, and it disappeared.",
+    "gold": "topping_up_by_card"
+  },
+  {
+    "item_id": "857",
+    "source_index": 2290,
+    "split": "evaluate",
+    "text": "I could not get my transfer to happen correctly and was wondering why?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "858",
+    "source_index": 2954,
+    "split": "evaluate",
+    "text": "My card is expiring shortly.  How much will it cost for a replacement, and how soon can I get it?",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "859",
+    "source_index": 1825,
+    "split": "evaluate",
+    "text": "My card payment didn't work, can you help?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "860",
+    "source_index": 1024,
+    "split": "evaluate",
+    "text": "What happened to where my top-up was canceled?",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "861",
+    "source_index": 1916,
+    "split": "evaluate",
+    "text": "Please delete my account, this company is not working for me!",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "862",
+    "source_index": 2112,
+    "split": "evaluate",
+    "text": "Why does the app revert a payment?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "863",
+    "source_index": 1684,
+    "split": "evaluate",
+    "text": "I need to do a refund",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "864",
+    "source_index": 1949,
+    "split": "evaluate",
+    "text": "My card is stuck in the ATM, what can I do?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "865",
+    "source_index": 2667,
+    "split": "evaluate",
+    "text": "I tried to top up. Why was it denied?",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "866",
+    "source_index": 710,
+    "split": "evaluate",
+    "text": "My transaction needs to be canceled.",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "867",
+    "source_index": 1940,
+    "split": "evaluate",
+    "text": "What do I do if an ATM ate my card?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "868",
+    "source_index": 2734,
+    "split": "evaluate",
+    "text": "There's a cash withdraw on my statement that I didn't make.",
+    "gold": "cash_withdrawal_not_recognised"
+  },
+  {
+    "item_id": "869",
+    "source_index": 520,
+    "split": "evaluate",
+    "text": "How do I get my PIN unlocked?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "870",
+    "source_index": 1924,
+    "split": "evaluate",
+    "text": "HOw do I get my card back after the ATM has pulled it in?",
+    "gold": "card_swallowed"
+  },
+  {
+    "item_id": "871",
+    "source_index": 180,
+    "split": "evaluate",
+    "text": "Where did this 1 euro fee come from?",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "872",
+    "source_index": 2233,
+    "split": "evaluate",
+    "text": "What extra charges are there?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "873",
+    "source_index": 1551,
+    "split": "evaluate",
+    "text": "Can I reset my password?  I don't know what it is.",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "874",
+    "source_index": 1559,
+    "split": "evaluate",
+    "text": "What is the code I need to get into the app?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "875",
+    "source_index": 2251,
+    "split": "evaluate",
+    "text": "How do people send me money?",
+    "gold": "receiving_money"
+  },
+  {
+    "item_id": "876",
+    "source_index": 97,
+    "split": "evaluate",
+    "text": "Will I get a curreng foreign exchange rate?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "877",
+    "source_index": 2394,
+    "split": "evaluate",
+    "text": "How do I verify a top-up?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "878",
+    "source_index": 225,
+    "split": "evaluate",
+    "text": "I made a cash withdrawal but the pending status is taking forever.",
+    "gold": "pending_cash_withdrawal"
+  },
+  {
+    "item_id": "879",
+    "source_index": 590,
+    "split": "evaluate",
+    "text": "It didnt work when I tried to pay contactless at the bus today. Why?",
+    "gold": "contactless_not_working"
+  },
+  {
+    "item_id": "880",
+    "source_index": 840,
+    "split": "evaluate",
+    "text": "I completed an in country transfer a few days ago and was sure to check the account information several times since the transaction was completed, but the funds are still not available. What is the problem?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "881",
+    "source_index": 2816,
+    "split": "evaluate",
+    "text": "What fee is included if I top up by card?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "882",
+    "source_index": 870,
+    "split": "evaluate",
+    "text": "I sent some money and the receiver can't access it.",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "883",
+    "source_index": 2636,
+    "split": "evaluate",
+    "text": "Can i get a throw away card",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "884",
+    "source_index": 2345,
+    "split": "evaluate",
+    "text": "I need to bank account transfer from another account into this one, what is the easiest way that can be done, and what information do i need?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "885",
+    "source_index": 1735,
+    "split": "evaluate",
+    "text": "You keep declining my transfers? It's always been working really well so far, but when I tried to buy something just now the card got declined. I tried couple times already but same thing.",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "886",
+    "source_index": 432,
+    "split": "evaluate",
+    "text": "Can I exchange between GBP and USD on the app?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "887",
+    "source_index": 295,
+    "split": "evaluate",
+    "text": "May I choose when it's delivered?",
+    "gold": "card_delivery_estimate"
+  },
+  {
+    "item_id": "888",
+    "source_index": 2418,
+    "split": "evaluate",
+    "text": "Can I give a second card to my daughter?",
+    "gold": "getting_spare_card"
+  },
+  {
+    "item_id": "889",
+    "source_index": 966,
+    "split": "evaluate",
+    "text": "Are there any limits on where I can use my card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "890",
+    "source_index": 2091,
+    "split": "evaluate",
+    "text": "I'm not sure why my account has been refunded a payment for an item I've already received about 2 weeks ago. Can you please tell me what is going on?",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "891",
+    "source_index": 1367,
+    "split": "evaluate",
+    "text": "Do these virtual cards have any caps on using them?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "892",
+    "source_index": 1296,
+    "split": "evaluate",
+    "text": "Am I allowed to use any card to make a payment?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "893",
+    "source_index": 1827,
+    "split": "evaluate",
+    "text": "Please explain why my card was declined?",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "894",
+    "source_index": 1210,
+    "split": "evaluate",
+    "text": "The app failed to verify my identity.",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "895",
+    "source_index": 1541,
+    "split": "evaluate",
+    "text": "I do not remember the code, what should I do?",
+    "gold": "passcode_forgotten"
+  },
+  {
+    "item_id": "896",
+    "source_index": 1036,
+    "split": "evaluate",
+    "text": "Im very upset as my top-up was canceled and I have no idea why.",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "897",
+    "source_index": 868,
+    "split": "evaluate",
+    "text": "Is there a reason why my transaction is taking so long?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "898",
+    "source_index": 1152,
+    "split": "evaluate",
+    "text": "I need to update my current address",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "899",
+    "source_index": 2032,
+    "split": "evaluate",
+    "text": "Where can I see the source of my money?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "900",
+    "source_index": 849,
+    "split": "evaluate",
+    "text": "how long do money transfers take?",
+    "gold": "transfer_not_received_by_recipient"
+  },
+  {
+    "item_id": "901",
+    "source_index": 1507,
+    "split": "evaluate",
+    "text": "I have a direct debit charge that I do not recognize",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "902",
+    "source_index": 2008,
+    "split": "evaluate",
+    "text": "Why do you need all this information about my Source of Funds?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "903",
+    "source_index": 1295,
+    "split": "evaluate",
+    "text": "May I choose between Visa and Mastercard?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "904",
+    "source_index": 1682,
+    "split": "evaluate",
+    "text": "Get an item refund",
+    "gold": "request_refund"
+  },
+  {
+    "item_id": "905",
+    "source_index": 2886,
+    "split": "evaluate",
+    "text": "It looks like I was charged a withdrawal fee for going to my ATM. Why is that because I haven't been charged previously for doing so?",
+    "gold": "cash_withdrawal_charge"
+  },
+  {
+    "item_id": "906",
+    "source_index": 2492,
+    "split": "evaluate",
+    "text": "For physical cards, do you charge?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "907",
+    "source_index": 2087,
+    "split": "evaluate",
+    "text": "Hello, My money went through for my purchase but now I got contacted from the seller noting that they didn't receive it. Then the money was returned to my account and I'm not sure why this occurred. So if you can resolve this issue please.",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "908",
+    "source_index": 666,
+    "split": "evaluate",
+    "text": "OMG!  I'm trying to load my card and it wont top up!  I desperately need the money either on my card or in my bank, where is it?",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "909",
+    "source_index": 1653,
+    "split": "evaluate",
+    "text": "left phone at hotel, how to access app",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "910",
+    "source_index": 349,
+    "split": "evaluate",
+    "text": "I've tried looking for the auto-top up option on your website and I can't seem to find it. Can you help me?",
+    "gold": "automatic_top_up"
+  },
+  {
+    "item_id": "911",
+    "source_index": 1818,
+    "split": "evaluate",
+    "text": "Something is wrong with my payment account since it has been declined",
+    "gold": "declined_card_payment"
+  },
+  {
+    "item_id": "912",
+    "source_index": 1724,
+    "split": "evaluate",
+    "text": "What would make a decline message show up during a transfer?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "913",
+    "source_index": 670,
+    "split": "evaluate",
+    "text": "My top up hasn't worked, it's been stuck in pending for the last couple hours",
+    "gold": "pending_top_up"
+  },
+  {
+    "item_id": "914",
+    "source_index": 1227,
+    "split": "evaluate",
+    "text": "How do I show this stupid system that this is really my identity?",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "915",
+    "source_index": 2231,
+    "split": "evaluate",
+    "text": "In the past month I often used this account to manage payments for my new holiday villa. Now all of a sudden your fees have increased exorbitantly! Don't you have a rewards programme for frequent users?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "916",
+    "source_index": 2348,
+    "split": "evaluate",
+    "text": "How do I do an international transfer?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "917",
+    "source_index": 2371,
+    "split": "evaluate",
+    "text": "How do I get my top-up verification code?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "918",
+    "source_index": 1455,
+    "split": "evaluate",
+    "text": "How many miles away is the ATM?",
+    "gold": "atm_support"
+  },
+  {
+    "item_id": "919",
+    "source_index": 916,
+    "split": "evaluate",
+    "text": "How can I use American Express to add funds to my account?",
+    "gold": "supported_cards_and_currencies"
+  },
+  {
+    "item_id": "920",
+    "source_index": 162,
+    "split": "evaluate",
+    "text": "I'm not okay with this fee on my statement.",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "921",
+    "source_index": 552,
+    "split": "evaluate",
+    "text": "How do I reset my PIN?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "922",
+    "source_index": 2966,
+    "split": "evaluate",
+    "text": "Top up on my Google Pay isn't working.",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "923",
+    "source_index": 2369,
+    "split": "evaluate",
+    "text": "Why do you need code verification for my top up?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "924",
+    "source_index": 2461,
+    "split": "evaluate",
+    "text": "Where are the options to top up with a cheque on my account?",
+    "gold": "top_up_by_cash_or_cheque"
+  },
+  {
+    "item_id": "925",
+    "source_index": 108,
+    "split": "evaluate",
+    "text": "How do your exchange rates work?",
+    "gold": "exchange_rate"
+  },
+  {
+    "item_id": "926",
+    "source_index": 2596,
+    "split": "evaluate",
+    "text": "how do you determine your exchange rates because one of yours was off when i got cash",
+    "gold": "wrong_exchange_rate_for_cash_withdrawal"
+  },
+  {
+    "item_id": "927",
+    "source_index": 1770,
+    "split": "evaluate",
+    "text": "I asked for a refund last week but nothing has happened yet, can you help me please?",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "928",
+    "source_index": 2764,
+    "split": "evaluate",
+    "text": "What is the base amount for cross-currency exchanges?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "929",
+    "source_index": 480,
+    "split": "evaluate",
+    "text": "how old do i need to be to get an account for myself",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "930",
+    "source_index": 2659,
+    "split": "evaluate",
+    "text": "I topped up but the app did not accept it.",
+    "gold": "top_up_failed"
+  },
+  {
+    "item_id": "931",
+    "source_index": 1390,
+    "split": "evaluate",
+    "text": "How many disposable cards can I own?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "932",
+    "source_index": 1759,
+    "split": "evaluate",
+    "text": "I think my transfer was declined, but why?",
+    "gold": "declined_transfer"
+  },
+  {
+    "item_id": "933",
+    "source_index": 1896,
+    "split": "evaluate",
+    "text": "I need your help in deleting my account.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "934",
+    "source_index": 1380,
+    "split": "evaluate",
+    "text": "I would like to know any restrictions for the disposable cards.",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "935",
+    "source_index": 1484,
+    "split": "evaluate",
+    "text": "what is this charge on my account",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "936",
+    "source_index": 1225,
+    "split": "evaluate",
+    "text": "What do i need to verify my id?",
+    "gold": "unable_to_verify_identity"
+  },
+  {
+    "item_id": "937",
+    "source_index": 2836,
+    "split": "evaluate",
+    "text": "What will happen if I want to add money using an international card? Will I run into any fees?",
+    "gold": "top_up_by_card_charge"
+  },
+  {
+    "item_id": "938",
+    "source_index": 175,
+    "split": "evaluate",
+    "text": "There is an extra $1 charge",
+    "gold": "extra_charge_on_statement"
+  },
+  {
+    "item_id": "939",
+    "source_index": 479,
+    "split": "evaluate",
+    "text": "Help me please!  My card was stolen!",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "940",
+    "source_index": 995,
+    "split": "evaluate",
+    "text": "Will any business take this card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "941",
+    "source_index": 1869,
+    "split": "evaluate",
+    "text": "I made a transfer 12 hours ago. Why is it still listed as pending?",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "942",
+    "source_index": 1492,
+    "split": "evaluate",
+    "text": "Even though it's late, I wanted to see about disputing a charge. I was just looking through my transactions over the past couple of months and noticed a pretty large amount that was not completed by me. Is this possibly something I can still do.",
+    "gold": "direct_debit_payment_not_recognised"
+  },
+  {
+    "item_id": "943",
+    "source_index": 2999,
+    "split": "evaluate",
+    "text": "Google pay and top up, I want it, can I get it?",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "944",
+    "source_index": 2028,
+    "split": "evaluate",
+    "text": "Where has my available money come from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "945",
+    "source_index": 727,
+    "split": "evaluate",
+    "text": "what is the top up limit",
+    "gold": "top_up_limits"
+  },
+  {
+    "item_id": "946",
+    "source_index": 2129,
+    "split": "evaluate",
+    "text": "I desperately need to change my PIN, but I'm overseas on vacation right now. How can I do this?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "947",
+    "source_index": 2150,
+    "split": "evaluate",
+    "text": "I am in Austria right now. I need to change my PIN ASAP, so can I still do this from here?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "948",
+    "source_index": 4,
+    "split": "evaluate",
+    "text": "My card has not arrived yet.",
+    "gold": "card_arrival"
+  },
+  {
+    "item_id": "949",
+    "source_index": 365,
+    "split": "evaluate",
+    "text": "My card won't work.",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "950",
+    "source_index": 981,
+    "split": "evaluate",
+    "text": "Is there any place I cannot use my card?",
+    "gold": "card_acceptance"
+  },
+  {
+    "item_id": "951",
+    "source_index": 2716,
+    "split": "evaluate",
+    "text": "I need to know the time frame that is typical for a transfer from a UK account. I just made a transfer and it doesn't appear. I want to make sure everything is okay.",
+    "gold": "balance_not_updated_after_bank_transfer"
+  },
+  {
+    "item_id": "952",
+    "source_index": 1014,
+    "split": "evaluate",
+    "text": "There appears to have been a reversion in my top up",
+    "gold": "top_up_reverted"
+  },
+  {
+    "item_id": "953",
+    "source_index": 1962,
+    "split": "evaluate",
+    "text": "Why am I being charged twice fro a restaurant?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "954",
+    "source_index": 435,
+    "split": "evaluate",
+    "text": "I think I want AUD and not GBP, can you help?",
+    "gold": "exchange_via_app"
+  },
+  {
+    "item_id": "955",
+    "source_index": 1289,
+    "split": "evaluate",
+    "text": "Can I get a mastercard?",
+    "gold": "visa_or_mastercard"
+  },
+  {
+    "item_id": "956",
+    "source_index": 2234,
+    "split": "evaluate",
+    "text": "I know that I am able to make transfers for free.  That was something that I valued.  After I bought something online from abroad I noticed that I got charged a fee?  What is this and can it be removed?",
+    "gold": "transfer_fee_charged"
+  },
+  {
+    "item_id": "957",
+    "source_index": 687,
+    "split": "evaluate",
+    "text": "I would like to revert a transaction I did this morning",
+    "gold": "cancel_transfer"
+  },
+  {
+    "item_id": "958",
+    "source_index": 3056,
+    "split": "evaluate",
+    "text": "Is my country supported",
+    "gold": "country_support"
+  },
+  {
+    "item_id": "959",
+    "source_index": 1430,
+    "split": "evaluate",
+    "text": "I believe someone is using my card without my agreement!",
+    "gold": "compromised_card"
+  },
+  {
+    "item_id": "960",
+    "source_index": 2002,
+    "split": "evaluate",
+    "text": "Where are my funds being sourced from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "961",
+    "source_index": 1891,
+    "split": "evaluate",
+    "text": "I don't like your company. Delete my account.",
+    "gold": "terminate_account"
+  },
+  {
+    "item_id": "962",
+    "source_index": 2033,
+    "split": "evaluate",
+    "text": "what is source of my funds, need to verify",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "963",
+    "source_index": 2376,
+    "split": "evaluate",
+    "text": "Is it necessary to verify my top up?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "964",
+    "source_index": 1101,
+    "split": "evaluate",
+    "text": "I think my statement has a fraudulent charge",
+    "gold": "card_payment_not_recognised"
+  },
+  {
+    "item_id": "965",
+    "source_index": 2335,
+    "split": "evaluate",
+    "text": "How can I transfer funds from my bank to my top up account?",
+    "gold": "transfer_into_account"
+  },
+  {
+    "item_id": "966",
+    "source_index": 1852,
+    "split": "evaluate",
+    "text": "My transfer is still coming up as pending.",
+    "gold": "pending_transfer"
+  },
+  {
+    "item_id": "967",
+    "source_index": 781,
+    "split": "evaluate",
+    "text": "I asked for $100 cash but only got $20?",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "968",
+    "source_index": 2788,
+    "split": "evaluate",
+    "text": "How much will I pay to exchange foreign currency?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "969",
+    "source_index": 2153,
+    "split": "evaluate",
+    "text": "How do I update the PIN on my account?",
+    "gold": "change_pin"
+  },
+  {
+    "item_id": "970",
+    "source_index": 1632,
+    "split": "evaluate",
+    "text": "How long does it take for a payment to go thru? I made one a few days ago and it has not been cleared yet.",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "971",
+    "source_index": 2545,
+    "split": "evaluate",
+    "text": "My disposable card seems not to be working am I doing something wrong?",
+    "gold": "virtual_card_not_working"
+  },
+  {
+    "item_id": "972",
+    "source_index": 1150,
+    "split": "evaluate",
+    "text": "how to change name",
+    "gold": "edit_personal_details"
+  },
+  {
+    "item_id": "973",
+    "source_index": 2300,
+    "split": "evaluate",
+    "text": "What are your policies for card transfers?",
+    "gold": "failed_transfer"
+  },
+  {
+    "item_id": "974",
+    "source_index": 1637,
+    "split": "evaluate",
+    "text": "I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "975",
+    "source_index": 1395,
+    "split": "evaluate",
+    "text": "Do you know what the restriction of the disposable cards are?",
+    "gold": "disposable_card_limits"
+  },
+  {
+    "item_id": "976",
+    "source_index": 1761,
+    "split": "evaluate",
+    "text": "My refund is missing from my statement.",
+    "gold": "Refund_not_showing_up"
+  },
+  {
+    "item_id": "977",
+    "source_index": 2773,
+    "split": "evaluate",
+    "text": "Does it cost extra to exchange currencies?",
+    "gold": "exchange_charge"
+  },
+  {
+    "item_id": "978",
+    "source_index": 481,
+    "split": "evaluate",
+    "text": "How young can I be to open my own account?",
+    "gold": "age_limit"
+  },
+  {
+    "item_id": "979",
+    "source_index": 2010,
+    "split": "evaluate",
+    "text": "How can I tell where my funds came from?",
+    "gold": "verify_source_of_funds"
+  },
+  {
+    "item_id": "980",
+    "source_index": 2944,
+    "split": "evaluate",
+    "text": "Since my card is about to expire, I need a new one.",
+    "gold": "card_about_to_expire"
+  },
+  {
+    "item_id": "981",
+    "source_index": 939,
+    "split": "evaluate",
+    "text": "Where can I order a virtual card?",
+    "gold": "getting_virtual_card"
+  },
+  {
+    "item_id": "982",
+    "source_index": 1673,
+    "split": "evaluate",
+    "text": "My phone is lost.  What do I do to prevent someone from using the app?",
+    "gold": "lost_or_stolen_phone"
+  },
+  {
+    "item_id": "983",
+    "source_index": 454,
+    "split": "evaluate",
+    "text": "I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?",
+    "gold": "lost_or_stolen_card"
+  },
+  {
+    "item_id": "984",
+    "source_index": 525,
+    "split": "evaluate",
+    "text": "I used the wrong ping too many times and now the account is blocked.  How do I unblock?",
+    "gold": "pin_blocked"
+  },
+  {
+    "item_id": "985",
+    "source_index": 385,
+    "split": "evaluate",
+    "text": "I tried using my card today and it's not working, can you help me?",
+    "gold": "card_not_working"
+  },
+  {
+    "item_id": "986",
+    "source_index": 799,
+    "split": "evaluate",
+    "text": "Will declined funds I tried to withdraw be returned to me?",
+    "gold": "wrong_amount_of_cash_received"
+  },
+  {
+    "item_id": "987",
+    "source_index": 1967,
+    "split": "evaluate",
+    "text": "I have a duplicate payment showing up on the app. How do I stop myself being charged for the thing twice?",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "988",
+    "source_index": 1977,
+    "split": "evaluate",
+    "text": "I see what looks like duplicate charges on account.",
+    "gold": "transaction_charged_twice"
+  },
+  {
+    "item_id": "989",
+    "source_index": 2113,
+    "split": "evaluate",
+    "text": "I did a payment but the app reverted it",
+    "gold": "reverted_card_payment?"
+  },
+  {
+    "item_id": "990",
+    "source_index": 1634,
+    "split": "evaluate",
+    "text": "How long does it take to authorise a payment?",
+    "gold": "pending_card_payment"
+  },
+  {
+    "item_id": "991",
+    "source_index": 602,
+    "split": "evaluate",
+    "text": "I need to make a transfer, what will the fee be?",
+    "gold": "top_up_by_bank_transfer_charge"
+  },
+  {
+    "item_id": "992",
+    "source_index": 2973,
+    "split": "evaluate",
+    "text": "is apple pay eligible for top up",
+    "gold": "apple_pay_or_google_pay"
+  },
+  {
+    "item_id": "993",
+    "source_index": 2611,
+    "split": "evaluate",
+    "text": "Is there anyway, I can get a disposable virtual card?",
+    "gold": "get_disposable_virtual_card"
+  },
+  {
+    "item_id": "994",
+    "source_index": 2481,
+    "split": "evaluate",
+    "text": "I want a card. What is the procedure?",
+    "gold": "order_physical_card"
+  },
+  {
+    "item_id": "995",
+    "source_index": 3000,
+    "split": "evaluate",
+    "text": "What can I use to verify my identify?",
+    "gold": "verify_my_identity"
+  },
+  {
+    "item_id": "996",
+    "source_index": 1589,
+    "split": "evaluate",
+    "text": "Why didn't the ATM give me my money?",
+    "gold": "declined_cash_withdrawal"
+  },
+  {
+    "item_id": "997",
+    "source_index": 1165,
+    "split": "evaluate",
+    "text": "What is the need to verify my identity?",
+    "gold": "why_verify_identity"
+  },
+  {
+    "item_id": "998",
+    "source_index": 2389,
+    "split": "evaluate",
+    "text": "help me find the top-up card's verification code?",
+    "gold": "verify_top_up"
+  },
+  {
+    "item_id": "999",
+    "source_index": 1002,
+    "split": "evaluate",
+    "text": "Is it possible to tell if my top up has reverted?",
+    "gold": "top_up_reverted"
+  }
+]

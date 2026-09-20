@@ -1,0 +1,14 @@
+{
+  "repository": "PolyAI/banking77",
+  "revision": "90d4e2ee5521c04fc1488f065b8b083658768c57",
+  "upstream_revision": "57ec275d8078af65b7731c2a98be812d844a6d6b",
+  "source_url": "https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/57ec275d8078af65b7731c2a98be812d844a6d6b/banking_data/test.csv",
+  "source_sha256": "d12d6e3bc4c3103966ae786dc435913c0c563dfa328f5a3646d0e62cfeeb474d",
+  "loader": "original CSV via datasets.Dataset.from_list",
+  "fingerprint": "91f7ce501f3820fd",
+  "seed": 20260920,
+  "source_split": "test",
+  "source_size": 3080,
+  "source": "https://huggingface.co/datasets/PolyAI/banking77",
+  "license": "CC-BY-4.0"
+}
