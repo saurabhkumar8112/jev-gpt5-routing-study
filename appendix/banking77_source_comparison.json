@@ -1,0 +1,44 @@
+{
+  "checked_date": "2026-09-21",
+  "original_repository": "PolyAI/banking77",
+  "original_hf_revision": "90d4e2ee5521c04fc1488f065b8b083658768c57",
+  "original_upstream_revision": "57ec275d8078af65b7731c2a98be812d844a6d6b",
+  "mteb_repository": "mteb/banking77",
+  "mteb_revision": "18072d2685ea682290f7b8924d94c62acc19c0b2",
+  "comparison": "Exact Unicode text and human-readable gold label; no normalization or relabeling.",
+  "splits": {
+    "train": {
+      "original_source_url": "https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/57ec275d8078af65b7731c2a98be812d844a6d6b/banking_data/train.csv",
+      "original_sha256": "b06e26ac675513959a63135f11b94ea7786ed02da65db93a5650d8838cbc664b",
+      "mteb_source_url": "https://huggingface.co/datasets/mteb/banking77/resolve/18072d2685ea682290f7b8924d94c62acc19c0b2/data/train-00000-of-00001.parquet",
+      "mteb_sha256": "482d07d5f8027debcaca8fb3b8fa9da9d81a01318bba746eb36e5bb4fcd785af",
+      "original_rows": 10003,
+      "mteb_rows": 9993,
+      "original_only_text_label_pairs": 10,
+      "mteb_only_text_label_pairs": 0,
+      "remaining_text_label_pairs_match": true
+    },
+    "test": {
+      "original_source_url": "https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/57ec275d8078af65b7731c2a98be812d844a6d6b/banking_data/test.csv",
+      "original_sha256": "d12d6e3bc4c3103966ae786dc435913c0c563dfa328f5a3646d0e62cfeeb474d",
+      "mteb_source_url": "https://huggingface.co/datasets/mteb/banking77/resolve/18072d2685ea682290f7b8924d94c62acc19c0b2/data/test-00000-of-00001.parquet",
+      "mteb_sha256": "9575f636fdeae0c94a0f3f2d926ca8f9a2833b998cf94108936dfd5d72322bf9",
+      "original_rows": 3080,
+      "mteb_rows": 3076,
+      "original_only_text_label_pairs": 4,
+      "mteb_only_text_label_pairs": 0,
+      "remaining_text_label_pairs_match": true
+    }
+  },
+  "study_sample": {
+    "tune": {
+      "n": 500,
+      "exact_pairs_present_in_mteb": 500
+    },
+    "evaluate": {
+      "n": 500,
+      "exact_pairs_present_in_mteb": 500
+    }
+  },
+  "interpretation": "The frozen original-PolyAI sample and result are unchanged. This comparison is not an MTEB evaluation; resampling by position from differently sized releases need not select the same items."
+}

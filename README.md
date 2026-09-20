@@ -14,6 +14,11 @@ This public release includes the fixed 1,000-item Banking77 sample, sanitized re
 | GPT-5 | 432 | $2,246.57 |
 | Jev → GPT-5 | 430 | $1,183.05 |
 
+The cascade used **52.7% of GPT-5's API bill**, a **47.3% saving**, with accuracy of **86.0% versus 86.4%**. Jev alone cost about **32× less per classification**, with a **3.2-percentage-point accuracy loss**. These figures are specific to this task and recorded configuration; they are not token-price ratios or measured agent/tool-call failure rates.
+
+- **Dataset:** the original PolyAI Banking77 release. All 1,000 sampled text-and-label pairs also match the checked MTEB distribution, although its full splits differ slightly. [Source comparison](docs/BANKING77_PROVENANCE.md).
+- **Agent workflows:** errors can affect subsequent decisions. Complete-run success, recovery, latency and cost per successful task require separate evaluation. [Scope and deployment implications](article/ARTICLE.md#applying-this-result-to-classification-and-agent-workflows).
+
 ## Reproduce offline
 
 Python 3.9+; standard library only. No credentials, network calls, or packages required.

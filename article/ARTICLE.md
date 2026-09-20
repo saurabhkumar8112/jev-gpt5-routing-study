@@ -14,6 +14,8 @@
 
 [TypeSafe's homepage](https://typesafe.ai/) currently advertises **444.6× cheaper**, qualified as being based on workflows for System One tasks (checked 21 September 2026). That is a vendor workflow claim, not a verified 100× claim against GPT-5 on this dataset. My experiment uses a different workload and does not directly reproduce or refute that advertised comparison.
 
+TypeSafe's [evaluation explanation](https://typesafe.ai/blog/introducing-system-one-models-and-jev) says its LLM wrapper requests structured decisions with probabilities, which adds cost compared with decisions alone. Here, GPT-5 returned one intent label, while Jev returned a choice, probabilities and confidence. That difference helps explain why these are different comparisons; this study does not isolate how much of the gap it explains. The measured 32× ratio is **API cost per classification**, including recorded token usage, not a claim that tokens themselves are 32× cheaper.
+
 My question is narrower: **how much does Jev save against a pinned GPT-5 configuration on the same classification questions, and how many additional label errors come with that saving?**
 
 On these questions, the answer was about **32× lower cost for Jev alone**, or **1.9× lower cost after adding fallback to recover most of the observed accuracy gap**. These measurements come from offline routing over actual API responses on one reused public benchmark. Whether either option is acceptable depends on the application's error tolerance and needs fresh workload-specific validation.
@@ -35,6 +37,8 @@ Here are the requests, measurements, and code behind those numbers.
 The task was single-label banking-intent classification with 77 allowed labels. Each input contained a customer message; the expected output was one intent identifier. Examples of labels include `card_arrival`, `card_delivery_estimate`, and `lost_or_stolen_card`.
 
 I sampled 1,000 cases without replacement from the public Banking77 test split, using seed `20260920`. The first 500 sampled cases were tuning data; the remaining 500 were evaluation data. The evidence records the source revision, file checksum, sample indices, original text, gold labels, and split assignment. The audit found no source-index overlap or duplicate text across the two halves.
+
+The source was **PolyAI's original Banking77 release**: its original 3,080-row test CSV, with label metadata from `PolyAI/banking77`. The separately maintained `mteb/banking77` distribution has 3,076 test rows at the revision checked on 21 September 2026. An exact text-and-label comparison found all 1,000 study examples unchanged in that distribution. The [source comparison](../docs/BANKING77_PROVENANCE.md) records both revisions, row counts and checksums. This remains an evaluation on the frozen original-PolyAI sample, not an MTEB leaderboard evaluation.
 
 | Setting | Recorded configuration |
 |---|---|
@@ -291,6 +295,16 @@ The routing comparison has further limits:
 - Exact-label accuracy weights all errors equally. Fraud-sensitive errors and harmless taxonomy confusions may have very different application costs.
 - The threshold is not a guarantee that retained predictions are at least 94% accurate. Their observed accuracy was 93.23%.
 - Threshold selection, evidence integrity, and arithmetic checks passing do not reverse the failed held-out parity criterion.
+
+## Applying this result to classification and agent workflows
+
+These numbers are measured operating points for one banking-intent task. Other classification workloads need their own held-out accuracy, error-severity and cost measurements. The roughly 32× lower API cost came with a **3.2-percentage-point accuracy loss relative to GPT-5**. That is an additional classification-error gap, not an absolute 3.2% error rate or a measured tool-call failure rate.
+
+In an agent loop, a wrong tool selection, argument or interpretation can change the state used by later decisions. Errors can propagate, while detection, retries and recovery can also change the outcome and bill. A schema-valid decision does not by itself establish semantic correctness. This study measured neither tool execution nor complete agent runs, and it did not establish a formula mapping its single-step accuracy to long-horizon task success.
+
+An agent evaluation would need complete runs on fresh representative tasks, measuring task success, consequential actions, recovery and retry behavior, total API cost, and end-to-end latency. Cost per successful task matters alongside cost per decision. The confidence threshold and acceptable errors must be selected for that workflow and then evaluated on untouched cases.
+
+For the classification task actually measured, the fallback policy achieved **86.0% accuracy versus GPT-5's 86.4%, at 47.3% lower API cost**. Equivalently, it used **52.7% of the GPT-5 API bill**. These are near-GPT-5 observed results, not demonstrated equivalent accuracy, and they do not establish the same savings in an agent loop.
 
 ## What I would test before deploying it
 
