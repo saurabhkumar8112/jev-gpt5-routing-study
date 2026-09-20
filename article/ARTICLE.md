@@ -1,12 +1,22 @@
 # Jev vs. GPT-5
 
-## Conclusion
+## Conclusion: what did I trade for the lower bill?
 
-**I did not establish equal-quality savings.** My Jev → GPT-5 cascade missed the predefined accuracy target by **two answers out of 500**: **86.0% accuracy**, versus **86.4% for GPT-5 alone**. It reduced measured API cost by **47.3%**, from **$2,247 to $1,183 per million equivalent requests**.
+**My cascade missed its predefined accuracy target by two answers out of 500.** My earlier naming experiment also failed its controls; I am not making its intended attribution claim. The useful result here is the measured cost–accuracy trade-off:
 
-Jev alone was about **32× cheaper**, but scored **83.2%**. Adding GPT-5 fallback recovered most of that accuracy gap and left a **1.90× cost ratio**, not 32× savings at GPT-5 quality. The two-answer difference is small, but this experiment does not establish equivalence.
+| Option | Accuracy on 500 evaluation cases | API cost per million equivalent requests | Trade-off versus GPT-5 |
+|---|---:|---:|---|
+| GPT-5 alone | 86.4% | $2,246.57 | Baseline |
+| Jev alone | 83.2% | $70.88 | About 32× lower cost; 3.2 percentage points lower accuracy |
+| Jev with GPT-5 fallback | 86.0% | $1,183.05 | 1.90× lower cost; 0.4 percentage points lower accuracy |
 
-For me, this supports testing confidence-based routing on a real workload with an explicit acceptable error rate. It does **not** establish 50× equal-quality savings or production accuracy. These results come from offline routing over actual API responses on one reused public benchmark. My earlier naming experiment also failed its controls, so I am not making its intended attribution claim.
+**Using Jev alone reduced API cost by about 96.8%, with 16 fewer correct answers out of 500. Adding GPT-5 fallback reduced cost by 47.3%, with two fewer correct answers.** That is the trade-off I observed. I did not establish equivalent accuracy, reliable production performance, or a universal savings multiplier.
+
+[TypeSafe's homepage](https://typesafe.ai/) currently advertises **444.6× cheaper**, qualified as being based on workflows for System One tasks (checked 21 September 2026). That is a vendor workflow claim, not a verified 100× claim against GPT-5 on this dataset. My experiment uses a different workload and does not directly reproduce or refute that advertised comparison.
+
+My question is narrower: **how much does Jev save against a pinned GPT-5 configuration on the same classification questions, and how many additional label errors come with that saving?**
+
+On these questions, the answer was about **32× lower cost for Jev alone**, or **1.9× lower cost after adding fallback to recover most of the observed accuracy gap**. These measurements come from offline routing over actual API responses on one reused public benchmark. Whether either option is acceptable depends on the application's error tolerance and needs fresh workload-specific validation.
 
 ## What I tested
 
